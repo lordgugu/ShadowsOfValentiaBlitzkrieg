@@ -13,3 +13,11 @@
 - Entrance
   - Hard Bread
   - Flour
+
+## Thieves' Shrine
+
+- Main Area
+  - Iron Sword
+  - Mana Herbs
+- Battle
+  - Ram Wine

@@ -2,11 +2,11 @@
 
 # Blitzkrieg Run Journal
 
-| Save Data     | (Chapter0)           |
-| ------------- | -------------------- |
-| **Location**  | Act 1: Ram Village   |
-| **Date**      | 1st of Flostsym, 401 |
-| **Play Time** | 00:18                |
+| Save Data     | (Chapter0)             |
+| ------------- | ---------------------- |
+| **Location**  | Act 1: Thieves' Shrine |
+| **Date**      | 6th of Flostsym, 401   |
+| **Play Time** | 00:40                  |
 
 ----------
 
@@ -57,3 +57,36 @@ I could not find a way to clear this in one turn. One of the enemy cavaliers alw
 - Recruited **Faye**
 - Recruited **Kliff**
 - Hacked all characters to max stats and better equipment to be able to LTC the game and experiment with DLC turn counts and Blitzkrieg during Acts 4/5.
+
+### 1-2 Ram Woods Battle
+
+| Battle Data          | <!-- --> |
+| -------------------- | -------- |
+| **Turn Count**       | 2        |
+| **Total Turn Count** | 4        |
+
+### 1-3 Fleecer's Forest Battle
+
+| Battle Data          | <!-- --> |
+| -------------------- | -------- |
+| **Turn Count**       | 3        |
+| **Total Turn Count** | 7        |
+
+### 1-4 Thieves' Shrine
+
+Experimented a little with this. Even if Lukas gets a lot of focus in the previous maps, he needs the experience from skirmishes in the Thieves' Shrine to be able to hit level 7 before reaching the Mila Statue. If possible, the three groups of brigands should ideally be fought and solo'd by Lukas in a single encounter. Incidentally, this also allows to clear the boss battle quicker instead of having to deal with all the brigands there.
+
+- Forced all brigand groups into a single skirmish
+- Collected all items
+- Recruited **Silque**
+- Class-changed **Lukas** to **Knight**
+- Class-changed **Gray** to **Mercenary**
+- Class-changed **Tobin** to **Archer**
+- Class-changed **Faye** to **Cleric**
+- Class-changed **Kliff** to **Mage**
+
+| Battle Data                | <!-- --> |
+| -------------------------- | -------- |
+| **Skirmish Turn Count**    | 2        |
+| **Boss Battle Turn Count** | 1        |
+| **Total Turn Count**       | 10       |
