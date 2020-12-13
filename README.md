@@ -2,11 +2,11 @@
 
 # Blitzkrieg Run Journal
 
-| Save Data     | (Chapter0)             |
-| ------------- | ---------------------- |
-| **Location**  | Act 1: Thieves' Shrine |
-| **Date**      | 6th of Flostsym, 401   |
-| **Play Time** | 00:40                  |
+| Save Data     | (Chapter0)                       |
+| ------------- | -------------------------------- |
+| **Location**  | Act 1: Southern Outpost Interior |
+| **Date**      | 11th of Flostsym, 401            |
+| **Play Time** | 00:59                            |
 
 ----------
 
@@ -90,3 +90,22 @@ Experimented a little with this. Even if Lukas gets a lot of focus in the previo
 | **Skirmish Turn Count**    | 2        |
 | **Boss Battle Turn Count** | 1        |
 | **Total Turn Count**       | 10       |
+
+### 1-5 Storming of Ram Valley
+
+| Battle Data          | <!-- --> |
+| -------------------- | -------- |
+| **Turn Count**       | 3        |
+| **Total Turn Count** | 13       |
+
+### 1-6 Attack on the Southern Outpost
+
+| Battle Data          | <!-- --> |
+| -------------------- | -------- |
+| **Turn Count**       | 3        |
+| **Total Turn Count** | 16       |
+
+In the **Southern Outpost Interior**:
+
+- Collected all items
+- Recruited **Clair**
