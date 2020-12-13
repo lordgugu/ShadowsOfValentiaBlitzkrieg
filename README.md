@@ -6,7 +6,7 @@
 | ------------- | -------------------- |
 | **Location**  | Act 1: Ram Village   |
 | **Date**      | 1st of Flostsym, 401 |
-| **Play Time** | 00:14                |
+| **Play Time** | 00:18                |
 
 ----------
 
@@ -48,6 +48,12 @@ I could not find a way to clear this in one turn. One of the enemy cavaliers alw
 
 ## Act One
 
-### 1-1 Initial Save
+### 1-1 Ram Village
 
-Initial safety save made at the first opportunity in Ram Village. Nothing was collected yet.
+- Collected all items
+- Recruited **Lukas**
+- Recruited **Gray**
+- Recruited **Tobin**
+- Recruited **Faye**
+- Recruited **Kliff**
+- Hacked all characters to max stats and better equipment to be able to LTC the game and experiment with DLC turn counts and Blitzkrieg during Acts 4/5.
