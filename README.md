@@ -48,7 +48,7 @@ I could not find a way to clear this in one turn. One of the enemy cavaliers alw
 
 ## Act One
 
-### 1-1 Ram Village
+### Ram Village
 
 - Collected all items
 - Recruited **Lukas**
@@ -58,21 +58,21 @@ I could not find a way to clear this in one turn. One of the enemy cavaliers alw
 - Recruited **Kliff**
 - Hacked all characters to max stats and better equipment to be able to LTC the game and experiment with DLC turn counts and Blitzkrieg during Acts 4/5.
 
-### 1-2 Ram Woods Battle
+### 1-1 Ram Woods Battle
 
 | Battle Data          | <!-- --> |
 | -------------------- | -------- |
 | **Turn Count**       | 2        |
 | **Total Turn Count** | 4        |
 
-### 1-3 Fleecer's Forest Battle
+### 1-2 Fleecer's Forest Battle
 
 | Battle Data          | <!-- --> |
 | -------------------- | -------- |
 | **Turn Count**       | 3        |
 | **Total Turn Count** | 7        |
 
-### 1-4 Thieves' Shrine
+### Thieves' Shrine
 
 Experimented a little with this. Even if Lukas gets a lot of focus in the previous maps, he needs the experience from skirmishes in the Thieves' Shrine to be able to hit level 7 before reaching the Mila Statue. If possible, the three groups of brigands should ideally be fought and solo'd by Lukas in a single encounter. Incidentally, this also allows to clear the boss battle quicker instead of having to deal with all the brigands there.
 
@@ -91,21 +91,49 @@ Experimented a little with this. Even if Lukas gets a lot of focus in the previo
 | **Boss Battle Turn Count** | 1        |
 | **Total Turn Count**       | 10       |
 
-### 1-5 Storming of Ram Valley
+### 1-3 Storming of Ram Valley
 
 | Battle Data          | <!-- --> |
 | -------------------- | -------- |
 | **Turn Count**       | 3        |
 | **Total Turn Count** | 13       |
 
-### 1-6 Attack on the Southern Outpost
+### 1-4 Attack on the Southern Outpost
 
 | Battle Data          | <!-- --> |
 | -------------------- | -------- |
 | **Turn Count**       | 3        |
 | **Total Turn Count** | 16       |
 
-In the **Southern Outpost Interior**:
+### Southern Outpost Interior
 
 - Collected all items
 - Recruited **Clair**
+
+### 1-5 First Battle of Southern Zofia
+
+| Battle Data          | <!-- --> |
+| -------------------- | -------- |
+| **Turn Count**       | 3        |
+| **Total Turn Count** | 19       |
+
+### 1-6 Second Battle of Southern Zofia
+
+| Battle Data          | <!-- --> |
+| -------------------- | -------- |
+| **Turn Count**       | 4        |
+| **Total Turn Count** | 23       |
+
+### Deliverance Hideout
+
+Added the map of the Deliverance Hideout:
+
+![Deliverance Hideout Map](images/Deliverance%20Hideout.jpg)
+
+Marked with green spots are "safe rooms" where there are no Terrors. Some of these rooms contain barrels, which are a source of **Wine**, which can be traded in later for forging money. I will study later how long it takes to make a reserve, based on my plans for forges during Act 3.
+
+- Avoided all skirmishes
+- Recruited **Clive**
+- Recruited **Forsyth**
+- Recruited **Python**
+- Collected all items
