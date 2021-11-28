@@ -60,4 +60,9 @@
   - Main Area - Mila Carving
   - Main Area - Bread
 
+### Ram Valley
+
+- Battle:
+  - Mercenary - Leather Shield
+
 [Back](../README.md)

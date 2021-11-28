@@ -16,5 +16,6 @@
 | [1.4 - Ram Woods Battle](A1.4.md)             | 2          |
 | [1.5 - Fleecer's Forest Battle](A1.5.md)      | 3          |
 | [1.6 - Thieves' Shrine](A1.6.md)              | 2          |
+| [1.7 - Storming of Ram Valley](A1.7.md)       | 5          |
 
 [Back](../README.md)

@@ -1,12 +1,12 @@
 # Kliff
 
-LV1 Mercenary
+LV2 Mercenary
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 24       |
+| HP         | 25       |
 | Attack     | 8        |
-| Skill      | 8        |
+| Skill      | 9        |
 | Speed      | 10       |
 | Luck       | 10       |
 | Defense    | 5        |

@@ -9,10 +9,10 @@ Main save file of the game. Represents the top save slot in the game.
 | Current Info   | <!-- -->              |
 | -------------- | --------------------- |
 | **Act**        | 1                     |
-| **Location**   | Fleecer's Forest      |
-| **Date**       | 19th of Flostsym, 401 |
-| **Play Time**  | 02:30                 |
-| **Turn Count** | 34                    |
+| **Location**   | Ram Valley            |
+| **Date**       | 20th of Flostsym, 401 |
+| **Play Time**  | 02:47                 |
+| **Turn Count** | 39                    |
 | **Alm Funds**  | 21 Silver             |
 
 ## Global

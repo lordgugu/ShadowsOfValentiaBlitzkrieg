@@ -1,6 +1,6 @@
 # Silque
 
-LV1 Cleric
+LV2 Cleric
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
@@ -9,7 +9,7 @@ LV1 Cleric
 | Skill      | 3        |
 | Speed      | 4        |
 | Luck       | 4        |
-| Defense    | 1        |
+| Defense    | 2        |
 | Resistance | 11       |
 | Movement   | 4        |
 
