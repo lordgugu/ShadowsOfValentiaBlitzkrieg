@@ -1,16 +1,15 @@
 # Tobin
 
-LV2 Villager
+LV3 Villager
 
-## Stats
-
-| <!-- -->   | <!-- --> |
+| Stat       | <!-- --> |
 | ---------- | -------- |
+| HP         | 23       |
 | Attack     | 7        |
-| Skill      | 2        |
-| Speed      | 6        |
-| Luck       | 4        |
-| Defense    | 3        |
+| Skill      | 3        |
+| Speed      | 7        |
+| Luck       | 5        |
+| Defense    | 4        |
 | Resistance | 4        |
 | Movement   | 4        |
 

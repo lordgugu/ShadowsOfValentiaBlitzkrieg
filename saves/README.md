@@ -9,10 +9,10 @@ Main save file of the game. Represents the top save slot in the game.
 | Current Info   | <!-- -->             |
 | -------------- | -------------------- |
 | **Act**        | 1                    |
-| **Location**   | Ram Village          |
-| **Date**       | 2nd of Flostsym, 401 |
+| **Location**   | Ram Woods            |
+| **Date**       | 3rd of Flostsym, 401 |
 | **Play Time**  | 01:41                |
-| **Turn Count** | 27                   |
+| **Turn Count** | 29                   |
 
 ## Global
 
