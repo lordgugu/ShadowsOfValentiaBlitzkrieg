@@ -1,13 +1,13 @@
 # Gray
 
-LV5 Villager
+LV6 Villager
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 24       |
 | Attack     | 9        |
 | Skill      | 4        |
-| Speed      | 4        |
+| Speed      | 5        |
 | Luck       | 2        |
 | Defense    | 4        |
 | Resistance | 2        |

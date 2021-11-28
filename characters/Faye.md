@@ -1,14 +1,14 @@
 # Faye
 
-LV1 Villager
+LV2 Villager
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 19       |
-| Attack     | 8        |
+| Attack     | 9        |
 | Skill      | 1        |
-| Speed      | 2        |
-| Luck       | 6        |
+| Speed      | 3        |
+| Luck       | 7        |
 | Defense    | 3        |
 | Resistance | 6        |
 | Movement   | 4        |

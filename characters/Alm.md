@@ -1,6 +1,6 @@
 # Alm
 
-LV1 Fighter
+LV2 Fighter
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
@@ -8,13 +8,14 @@ LV1 Fighter
 | Attack     | 10       |
 | Skill      | 7        |
 | Speed      | 6        |
-| Luck       | 7        |
-| Defense    | 5        |
+| Luck       | 8        |
+| Defense    | 6        |
 | Resistance | 4        |
 | Movement   | 5        |
 
 ## Abilities
 
 - Sword
+- Swap
 
 [Back](README.md)

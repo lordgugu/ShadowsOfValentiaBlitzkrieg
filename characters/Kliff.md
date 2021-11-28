@@ -1,15 +1,15 @@
 # Kliff
 
-LV1 Villager
+LV2 Villager
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 20       |
-| Attack     | 7        |
+| HP         | 21       |
+| Attack     | 8        |
 | Skill      | 1        |
-| Speed      | 2        |
+| Speed      | 3        |
 | Luck       | 10       |
-| Defense    | 3        |
+| Defense    | 4        |
 | Resistance | 8        |
 | Movement   | 4        |
 
