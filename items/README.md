@@ -32,4 +32,10 @@
 - Rewards:
   - Python's Bow
 
+### Siege of Zofia Castle (DLC)
+
+- Rewards:
+  - Clive's Lance
+  - Lukas's Shield
+
 [Back](../README.md)
