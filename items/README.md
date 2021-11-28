@@ -27,4 +27,9 @@
   - Memory Prism 11
   - Memory Prism 12
 
+### Outpost Rescue (DLC)
+
+- Rewards:
+  - Python's Bow
+
 [Back](../README.md)
