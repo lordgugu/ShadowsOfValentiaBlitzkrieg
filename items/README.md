@@ -20,4 +20,11 @@
   - Tobin - Carrot
   - Kliff - Bread
 
+### Battle of Zofia Harbor (DLC)
+
+- Rewards:
+  - Fernand's Lance
+  - Memory Prism 11
+  - Memory Prism 12
+
 [Back](../README.md)
