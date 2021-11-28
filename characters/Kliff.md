@@ -1,15 +1,15 @@
 # Kliff
 
-LV2 Villager
+LV1 Mercenary
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 21       |
+| HP         | 24       |
 | Attack     | 8        |
-| Skill      | 1        |
-| Speed      | 3        |
+| Skill      | 8        |
+| Speed      | 10       |
 | Luck       | 10       |
-| Defense    | 4        |
+| Defense    | 5        |
 | Resistance | 8        |
 | Movement   | 4        |
 

@@ -15,5 +15,6 @@
 | [1.3 - Siege of Zofia Castle (DLC)](A1.3.md)  | 10         |
 | [1.4 - Ram Woods Battle](A1.4.md)             | 2          |
 | [1.5 - Fleecer's Forest Battle](A1.5.md)      | 3          |
+| [1.6 - Thieves' Shrine](A1.6.md)              | 2          |
 
 [Back](../README.md)

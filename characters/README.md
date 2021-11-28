@@ -8,5 +8,6 @@
 - [Tobin](Tobin.md)
 - [Faye](Faye.md)
 - [Kliff](Kliff.md)
+- [Silque](Silque.md)
 
 [Back](../README.md)

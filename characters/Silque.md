@@ -1,16 +1,16 @@
-# Faye
+# Silque
 
 LV1 Cleric
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 20       |
-| Attack     | 10       |
-| Skill      | 2        |
+| HP         | 18       |
+| Attack     | 8        |
+| Skill      | 3        |
 | Speed      | 4        |
-| Luck       | 7        |
-| Defense    | 4        |
-| Resistance | 6        |
+| Luck       | 4        |
+| Defense    | 1        |
+| Resistance | 11       |
 | Movement   | 4        |
 
 ## Abilities

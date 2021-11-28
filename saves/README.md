@@ -6,13 +6,14 @@ The game is played on 3DS and save files of this run are extracted from the game
 
 Main save file of the game. Represents the top save slot in the game.
 
-| Current Info   | <!-- -->             |
-| -------------- | -------------------- |
-| **Act**        | 1                    |
-| **Location**   | Fleecer's Forest     |
-| **Date**       | 4th of Flostsym, 401 |
-| **Play Time**  | 01:53                |
-| **Turn Count** | 32                   |
+| Current Info   | <!-- -->              |
+| -------------- | --------------------- |
+| **Act**        | 1                     |
+| **Location**   | Fleecer's Forest      |
+| **Date**       | 19th of Flostsym, 401 |
+| **Play Time**  | 02:30                 |
+| **Turn Count** | 34                    |
+| **Alm Funds**  | 21 Silver             |
 
 ## Global
 

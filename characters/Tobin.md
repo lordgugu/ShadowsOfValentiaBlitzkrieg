@@ -1,15 +1,15 @@
 # Tobin
 
-LV3 Villager
+LV1 Mage
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 23       |
-| Attack     | 7        |
-| Skill      | 3        |
-| Speed      | 7        |
+| HP         | 28       |
+| Attack     | 8        |
+| Skill      | 4        |
+| Speed      | 8        |
 | Luck       | 5        |
-| Defense    | 4        |
+| Defense    | 5        |
 | Resistance | 4        |
 | Movement   | 4        |
 

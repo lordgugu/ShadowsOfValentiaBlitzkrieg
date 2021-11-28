@@ -38,4 +38,26 @@
   - Clive's Lance
   - Lukas's Shield
 
+### Thieves' Shrine
+
+- Collected:
+  - Main Area - Iron Sword
+
+- Uncollected:
+  - Mila Idol - Mana Herbs (Quest Item)
+
+- Battle:
+  - Brigand Boss - Ram Wine (Quest Item)
+
+### Ram Village
+
+- Quest Rewards:
+  - Square - Blue Cheese
+
+### Thieves' Shrine
+
+- Collected:
+  - Main Area - Mila Carving
+  - Main Area - Bread
+
 [Back](../README.md)
