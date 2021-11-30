@@ -1,14 +1,14 @@
 # Silque
 
-LV3 Cleric
+LV4 Cleric
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 18       |
-| Attack     | 9        |
-| Skill      | 3        |
+| HP         | 19       |
+| Attack     | 10       |
+| Skill      | 4        |
 | Speed      | 5        |
-| Luck       | 5        |
+| Luck       | 6        |
 | Defense    | 2        |
 | Resistance | 11       |
 | Movement   | 4        |

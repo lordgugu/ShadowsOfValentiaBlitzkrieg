@@ -1,20 +1,24 @@
 # Tobin
 
-LV2 Mage
+LV3 Mage
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 28       |
+| HP         | 29       |
 | Attack     | 9        |
-| Skill      | 5        |
+| Skill      | 6        |
 | Speed      | 9        |
 | Luck       | 6        |
 | Defense    | 5        |
 | Resistance | 4        |
 | Movement   | 4        |
 
+| Supports | <!-- --> |
+| -------- | -------- |
+| Kliff    | C        |
+
 ## Abilities
 
-- Sword
+- Fire
 
 [Back](README.md)

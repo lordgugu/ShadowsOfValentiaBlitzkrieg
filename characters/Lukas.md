@@ -1,13 +1,13 @@
 # Lukas
 
-LV3 Soldier
+LV4 Soldier
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 22       |
 | Attack     | 10       |
 | Skill      | 5        |
-| Speed      | 4        |
+| Speed      | 5        |
 | Luck       | 2        |
 | Defense    | 6        |
 | Resistance | 2        |

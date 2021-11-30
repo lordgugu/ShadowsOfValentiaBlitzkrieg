@@ -18,5 +18,6 @@
 | [1.6 - Thieves' Shrine](A1.6.md)                | 2          |
 | [1.7 - Storming of Ram Valley](A1.7.md)         | 5          |
 | [1.8 - Attack on the Southern Outpost](A1.8.md) | 4          |
+| [1.9 - First Battle of Southern Zofia](A1.9.md) | 3          |
 
 [Back](../README.md)
