@@ -6,14 +6,14 @@ The game is played on 3DS and save files of this run are extracted from the game
 
 Main save file of the game. Represents the top save slot in the game.
 
-| Current Info   | <!-- -->              |
-| -------------- | --------------------- |
-| **Act**        | 1                     |
-| **Location**   | Ram Valley            |
-| **Date**       | 20th of Flostsym, 401 |
-| **Play Time**  | 02:47                 |
-| **Turn Count** | 39                    |
-| **Alm Funds**  | 21 Silver             |
+| Current Info   | <!-- -->                  |
+| -------------- | ------------------------- |
+| **Act**        | 1                         |
+| **Location**   | Southern Outpost Interior |
+| **Date**       | 23rd of Flostsym, 401     |
+| **Play Time**  | 03:31                     |
+| **Turn Count** | 43                        |
+| **Alm Funds**  | 21 Silver                 |
 
 ## Global
 

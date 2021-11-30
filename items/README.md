@@ -65,4 +65,29 @@
 - Battle:
   - Mercenary - Leather Shield
 
+### Southern Outpost
+
+- Battle:
+  - Archer - Steel Bow
+
+### Southern Outpost Interior
+
+- Collected:
+  - Entrance - Wine
+  - Entrance - Drinking Water
+  - War Room - Lightning Sword
+  - War Room - Cold Soup
+  - War Room - Wine
+  - War Room - Ale
+  - War Room - Rusted Steel Sword
+  - Dungeon - Hard Bread
+  - Dungeon - Hard Bread
+  - Dungeon - Holey Cheese (Quest Item)
+  - Dungeon - Leftover Ale
+  - Dungeon - Cell Key
+
+- Uncollected:
+  - Entrance - Iron Lance (Quest Item)
+  - Entrance - Rusted Steel Shield
+
 [Back](../README.md)

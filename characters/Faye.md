@@ -1,13 +1,13 @@
 # Faye
 
-LV1 Cleric
+LV2 Cleric
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 20       |
 | Attack     | 10       |
 | Skill      | 2        |
-| Speed      | 4        |
+| Speed      | 5        |
 | Luck       | 7        |
 | Defense    | 4        |
 | Resistance | 6        |
