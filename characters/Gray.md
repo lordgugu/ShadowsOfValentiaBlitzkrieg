@@ -1,12 +1,12 @@
 # Gray
 
-LV2 Mage
+LV3 Mage
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 28       |
-| Attack     | 10       |
-| Skill      | 5        |
+| HP         | 29       |
+| Attack     | 11       |
+| Skill      | 6        |
 | Speed      | 5        |
 | Luck       | 3        |
 | Defense    | 6        |
@@ -16,5 +16,6 @@ LV2 Mage
 ## Abilities
 
 - Fire
+- Swap
 
 [Back](README.md)

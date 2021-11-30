@@ -13,6 +13,10 @@ LV4 Cleric
 | Resistance | 11       |
 | Movement   | 4        |
 
+| Supports | <!-- --> |
+| -------- | -------- |
+| Faye     | C        |
+
 ## Abilities
 
 - Nosferatu

@@ -1,13 +1,13 @@
 # Tobin
 
-LV3 Mage
+LV4 Mage
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 29       |
 | Attack     | 9        |
-| Skill      | 6        |
-| Speed      | 9        |
+| Skill      | 7        |
+| Speed      | 10       |
 | Luck       | 6        |
 | Defense    | 5        |
 | Resistance | 4        |
@@ -20,5 +20,6 @@ LV3 Mage
 ## Abilities
 
 - Fire
+- Swap
 
 [Back](README.md)
