@@ -6,14 +6,14 @@ The game is played on 3DS and save files of this run are extracted from the game
 
 Main save file of the game. Represents the top save slot in the game.
 
-| Current Info   | <!-- -->              |
-| -------------- | --------------------- |
-| **Act**        | 1                     |
-| **Location**   | Southern Zofia 2      |
-| **Date**       | 25th of Flostsym, 401 |
-| **Play Time**  | 04:32                 |
-| **Turn Count** | 51                    |
-| **Alm Funds**  | 21 Silver             |
+| Current Info   | <!-- -->               |
+| -------------- | ---------------------- |
+| **Act**        | 1                      |
+| **Location**   | Southern Zofia 2       |
+| **Date**       | 103rd of Flostsym, 401 |
+| **Play Time**  | 09:24                  |
+| **Turn Count** | 61                     |
+| **Alm Funds**  | 197 Silver             |
 
 ## Global
 

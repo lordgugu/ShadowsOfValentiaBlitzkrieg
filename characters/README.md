@@ -9,5 +9,9 @@
 - [Faye](Faye.md)
 - [Kliff](Kliff.md)
 - [Silque](Silque.md)
+- [Clair](Clair.md)
+- [Clive](Clive.md)
+- [Forsyth](Forsyth.md)
+- [Python](Python.md)
 
 [Back](../README.md)

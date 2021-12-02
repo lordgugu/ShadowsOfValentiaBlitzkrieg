@@ -1,15 +1,15 @@
 # Tobin
 
-LV4 Mage
+LV6 Mage
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 29       |
-| Attack     | 9        |
-| Skill      | 7        |
+| Attack     | 11       |
+| Skill      | 9        |
 | Speed      | 10       |
-| Luck       | 6        |
-| Defense    | 5        |
+| Luck       | 7        |
+| Defense    | 6        |
 | Resistance | 4        |
 | Movement   | 4        |
 
@@ -20,6 +20,7 @@ LV4 Mage
 ## Abilities
 
 - Fire
+- Excalibur
 - Swap
 
 [Back](README.md)

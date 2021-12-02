@@ -1,21 +1,26 @@
 # Clair
 
-LV1 Pegasus Knight
+LV5 Pegasus Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 20       |
-| Attack     | 8        |
-| Skill      | 4        |
-| Speed      | 7        |
-| Luck       | 11       |
-| Defense    | 4        |
+| HP         | 21       |
+| Attack     | 9        |
+| Skill      | 6        |
+| Speed      | 9        |
+| Luck       | 15       |
+| Defense    | 5        |
 | Resistance | 8        |
 | Movement   | 7        |
+
+| Supports | <!-- --> |
+| -------- | -------- |
+| Alm      | C        |
 
 ## Abilities
 
 - Lance
+- Swap
 - Flier
 
 [Back](README.md)

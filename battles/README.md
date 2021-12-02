@@ -20,5 +20,6 @@
 | [1.8 - Attack on the Southern Outpost](A1.8.md)    | 4          |
 | [1.9 - First Battle of Southern Zofia](A1.9.md)    | 3          |
 | [1.10 - Second Battle of Southern Zofia](A1.10.md) | 5          |
+| [1.11 - Battle Preparations](A1.11.md)             | 10         |
 
 [Back](../README.md)

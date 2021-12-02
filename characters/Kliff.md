@@ -1,17 +1,17 @@
 # Kliff
 
-LV5 Mercenary
+LV1 Myrmidon
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 26       |
-| Attack     | 9        |
-| Skill      | 11       |
-| Speed      | 13       |
+| HP         | 30       |
+| Attack     | 11       |
+| Skill      | 13       |
+| Speed      | 15       |
 | Luck       | 10       |
-| Defense    | 6        |
+| Defense    | 7        |
 | Resistance | 8        |
-| Movement   | 4        |
+| Movement   | 5        |
 
 | Supports | <!-- --> |
 | -------- | -------- |

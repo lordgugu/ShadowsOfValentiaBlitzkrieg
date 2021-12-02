@@ -58,6 +58,8 @@
 
 - Collected:
   - Main Area - Mila Carving
+
+- Random Treasure:
   - Main Area - Bread
 
 ### Ram Valley
@@ -89,5 +91,40 @@
 - Uncollected:
   - Entrance - Iron Lance (Quest Item)
   - Entrance - Rusted Steel Shield
+
+### Deliverance Hideout
+
+- Collected:
+  - Main Area - Iron Bow
+  - Main Area - Silver Purse
+
+- Uncollected:
+  - Mila Idol - Mana Herbs (Quest Item)
+
+- Random Treasure:
+  - Main Area - Leftover Ale
+  - Main Area - Bread Piece
+  - Main Area - Leftover Bread
+  - Main Area - 4x Wine
+  - Main Area - Hard Bread
+  - Main Area - Garlic
+
+### Thieves' Shrine
+
+- Random Treasure:
+  - Main Area - 4x Ale
+  - Main Area - 5x Orange
+  - Main Area - 3x Carrot
+  - Main Area - Leftover Ale
+
+### Deliverance Hideout
+
+- Random Treasure:
+  - Main Area - 6x Wine
+
+### Thieves' Shrine
+
+- Random Treasure:
+  - Main Area - Bread
 
 [Back](../README.md)

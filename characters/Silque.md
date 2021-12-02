@@ -1,15 +1,15 @@
 # Silque
 
-LV4 Cleric
+LV8 Cleric
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 19       |
-| Attack     | 10       |
-| Skill      | 4        |
-| Speed      | 5        |
-| Luck       | 6        |
-| Defense    | 2        |
+| Attack     | 14       |
+| Skill      | 6        |
+| Speed      | 6        |
+| Luck       | 10       |
+| Defense    | 4        |
 | Resistance | 11       |
 | Movement   | 4        |
 
@@ -21,5 +21,6 @@ LV4 Cleric
 
 - Nosferatu
 - Recover
+- Warp
 
 [Back](README.md)
