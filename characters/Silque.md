@@ -1,21 +1,21 @@
 # Silque
 
-LV8 Cleric
+LV9 Cleric
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 19       |
-| Attack     | 14       |
-| Skill      | 6        |
+| HP         | 20       |
+| Attack     | 15       |
+| Skill      | 7        |
 | Speed      | 6        |
-| Luck       | 10       |
+| Luck       | 11       |
 | Defense    | 4        |
 | Resistance | 11       |
 | Movement   | 4        |
 
 | Supports | <!-- --> |
 | -------- | -------- |
-| Faye     | C        |
+| Faye     | B        |
 
 ## Abilities
 

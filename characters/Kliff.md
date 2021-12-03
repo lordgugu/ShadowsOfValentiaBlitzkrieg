@@ -1,24 +1,25 @@
 # Kliff
 
-LV1 Myrmidon
+LV3 Myrmidon
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 30       |
-| Attack     | 11       |
-| Skill      | 13       |
-| Speed      | 15       |
+| HP         | 31       |
+| Attack     | 12       |
+| Skill      | 14       |
+| Speed      | 17       |
 | Luck       | 10       |
-| Defense    | 7        |
+| Defense    | 8        |
 | Resistance | 8        |
 | Movement   | 5        |
 
 | Supports | <!-- --> |
 | -------- | -------- |
-| Tobin    | C        |
+| Tobin    | B        |
 
 ## Abilities
 
 - Sword
+- Thunderclap
 
 [Back](README.md)

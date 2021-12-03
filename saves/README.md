@@ -9,10 +9,10 @@ Main save file of the game. Represents the top save slot in the game.
 | Current Info   | <!-- -->               |
 | -------------- | ---------------------- |
 | **Act**        | 1                      |
-| **Location**   | Southern Zofia 2       |
-| **Date**       | 103rd of Flostsym, 401 |
-| **Play Time**  | 09:24                  |
-| **Turn Count** | 61                     |
+| **Location**   | Zofia Castle           |
+| **Date**       | 106th of Flostsym, 401 |
+| **Play Time**  | 11:19                  |
+| **Turn Count** | 72                     |
 | **Alm Funds**  | 197 Silver             |
 
 ## Global

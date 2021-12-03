@@ -127,4 +127,24 @@
 - Random Treasure:
   - Main Area - Bread
 
+### Zofia Gate
+
+- Battle:
+  - Desaix - Dracoshield
+
+### Zofia Castle
+
+- Collected:
+  - Treasure Vault - Wine
+  - Treasure Vault - Ridersbane
+  - Treasure Vault - Ram Wine
+  - Treasure Vault - Black Pearl (Quest Item)
+  - Balcony - Orange
+  - Balcony - Orange
+
+- Uncollected:
+  - Central Hall - Steel Lance (Quest Item)
+  - Central Hall - Iron Shield
+  - Treasure Vault - Blue Cheese (Quest Item)
+
 [Back](../README.md)

@@ -21,5 +21,6 @@
 | [1.9 - First Battle of Southern Zofia](A1.9.md)    | 3          |
 | [1.10 - Second Battle of Southern Zofia](A1.10.md) | 5          |
 | [1.11 - Battle Preparations](A1.11.md)             | 10         |
+| [1.12 - Liberation of Zofia Castle](A1.12.md)      | 11         |
 
 [Back](../README.md)

@@ -20,6 +20,7 @@ LV5 Pegasus Knight
 ## Abilities
 
 - Lance
+- Shove
 - Swap
 - Flier
 

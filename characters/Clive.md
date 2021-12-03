@@ -1,21 +1,22 @@
 # Clive
 
-LV1 Paladin
+LV2 Paladin
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 28       |
 | Attack     | 13       |
-| Skill      | 7        |
-| Speed      | 9        |
+| Skill      | 8        |
+| Speed      | 10       |
 | Luck       | 6        |
-| Defense    | 8        |
+| Defense    | 9        |
 | Resistance | 1        |
 | Movement   | 8        |
 
 | Supports | <!-- --> |
 | -------- | -------- |
 | Forsyth  | C        |
+| Python   | C        |
 
 ## Abilities
 

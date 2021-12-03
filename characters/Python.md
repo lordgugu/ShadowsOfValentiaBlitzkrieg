@@ -1,10 +1,10 @@
 # Python
 
-LV1 Sniper
+LV2 Sniper
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 30       |
+| HP         | 31       |
 | Attack     | 12       |
 | Skill      | 6        |
 | Speed      | 6        |
@@ -13,9 +13,15 @@ LV1 Sniper
 | Resistance | 4        |
 | Movement   | 5        |
 
+| Supports | <!-- --> |
+| -------- | -------- |
+| Clive    | C        |
+| Forsyth  | C        |
+
 ## Abilities
 
 - Bow
+- Curved Shot
 - Bowrange +2
 
 [Back](README.md)

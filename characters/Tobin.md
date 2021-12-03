@@ -1,21 +1,21 @@
 # Tobin
 
-LV6 Mage
+LV7 Mage
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 29       |
+| HP         | 30       |
 | Attack     | 11       |
-| Skill      | 9        |
+| Skill      | 10       |
 | Speed      | 10       |
-| Luck       | 7        |
-| Defense    | 6        |
+| Luck       | 8        |
+| Defense    | 7        |
 | Resistance | 4        |
 | Movement   | 4        |
 
 | Supports | <!-- --> |
 | -------- | -------- |
-| Kliff    | C        |
+| Kliff    | B        |
 
 ## Abilities
 

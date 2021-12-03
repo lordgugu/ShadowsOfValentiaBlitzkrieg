@@ -16,6 +16,7 @@ LV1 Knight
 | Supports | <!-- --> |
 | -------- | -------- |
 | Clive    | C        |
+| Python   | C        |
 
 ## Abilities
 

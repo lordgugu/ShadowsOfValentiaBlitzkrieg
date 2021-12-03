@@ -1,12 +1,12 @@
 # Gray
 
-LV3 Mage
+LV4 Mage
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 29       |
-| Attack     | 11       |
-| Skill      | 6        |
+| Attack     | 12       |
+| Skill      | 7        |
 | Speed      | 5        |
 | Luck       | 3        |
 | Defense    | 6        |
