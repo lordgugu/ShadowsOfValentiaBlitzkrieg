@@ -6,14 +6,14 @@ The game is played on 3DS and save files of this run are extracted from the game
 
 Main save file of the game. Represents the top save slot in the game.
 
-| Current Info   | <!-- -->               |
-| -------------- | ---------------------- |
-| **Act**        | 1                      |
-| **Location**   | Zofia Castle           |
-| **Date**       | 106th of Flostsym, 401 |
-| **Play Time**  | 11:19                  |
-| **Turn Count** | 72                     |
-| **Alm Funds**  | 197 Silver             |
+| Current Info        | <!-- -->            |
+| ------------------- | ------------------- |
+| **Act**             | 2                   |
+| **Alm Location**    | Zofia Castle        |
+| **Celica Location** | Priory              |
+| **Date**            | 1st of Avistym, 401 |
+| **Play Time**       | 11:24               |
+| **Turn Count**      | 72                  |
 
 ## Global
 
