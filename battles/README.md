@@ -23,4 +23,10 @@
 | [1.11 - Battle Preparations](A1.11.md)             | 10         |
 | [1.12 - Liberation of Zofia Castle](A1.12.md)      | 11         |
 
+## Act 2
+
+| Encounter                                    | Turn Count |
+| -------------------------------------------- | ---------- |
+| [2.1 - Flight from the Ruins (DLC)](A2.1.md) | 11         |
+
 [Back](../README.md)

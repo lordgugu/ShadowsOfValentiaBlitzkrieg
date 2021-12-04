@@ -40,6 +40,8 @@
 |          | Ram Wine             |
 |          | Memory Prism 11      |
 |          | Memory Prism 12      |
+|          | Memory Prism 13      |
+|          | Cog                  |
 |          | Mila's Turnwheel     |
 
 [Back](README.md)

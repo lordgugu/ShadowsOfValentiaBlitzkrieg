@@ -24,6 +24,7 @@ This repository compiles my progress of the run. You can find detailed informati
 - Incorporate the Rise of the Deliverance DLC
   - This is mostly because I like this DLC for story reasons as it adds new support conversations
   - While I do not plan on significantly forging the rewards from the DLC, they will compensate the fact that I need to leave all Act 1 lances unclaimed by Alm, except for the **Ridersbane**
-- Pitchfork DLC
-  - I'm only allowed to use them on **Lukas**, **Forsyth**, or **Valbar**, but only after they class-change to **Baron**
-  - I'll probably class-change them to Cavaliers after that
+- Mila's Bounty DLC
+  - I'm only allowed to use Pitchforks on **Lukas**, **Forsyth**, or **Valbar**, but only after they class-change to **Baron**
+  - I'll probably class-change them to Archers after that
+  - Because Celica doesn't have much access to Gold coins until Act 4, she'll be collecting Mila's Bounty 3. I'll incorporate trading around the Taurus Shard into my strategies

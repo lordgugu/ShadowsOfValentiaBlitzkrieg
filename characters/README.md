@@ -17,5 +17,8 @@
 ## Celica's Units
 
 - [Celica](Celica.md)
+- [Mae](Mae.md)
+- [Boey](Boey.md)
+- [Genny](Genny.md)
 
 [Back](../README.md)
