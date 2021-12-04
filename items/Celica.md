@@ -28,6 +28,7 @@
 | 2        | Ale              |
 | 5        | Leftover Ale     |
 |          | Ram Wine         |
+|          | Fruit of Life    |
 |          | Golden Apple     |
 |          | Memory Prism 11  |
 |          | Memory Prism 12  |

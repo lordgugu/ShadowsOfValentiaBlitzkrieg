@@ -1,15 +1,15 @@
 # Saber
 
-LV2-86 Mercenary
+LV3-28 Mercenary
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 23       |
+| HP         | 24       |
 | Attack     | 10       |
-| Skill      | 9        |
+| Skill      | 10       |
 | Speed      | 10       |
 | Luck       | 7        |
-| Defense    | 4        |
+| Defense    | 5        |
 | Resistance | 6        |
 | Movement   | 4        |
 

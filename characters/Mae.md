@@ -1,15 +1,15 @@
 # Mae
 
-LV7-57 Mage
+LV9-23 Mage
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 22       |
-| Attack     | 18       |
-| Skill      | 2        |
+| HP         | 24       |
+| Attack     | 20       |
+| Skill      | 3        |
 | Speed      | 11       |
-| Luck       | 8        |
-| Defense    | 3        |
+| Luck       | 10       |
+| Defense    | 4        |
 | Resistance | 10       |
 | Movement   | 4        |
 
@@ -17,6 +17,7 @@ LV7-57 Mage
 
 - Fire
 - Thunder
+- Aura
 - Swap
 
 [Back](README.md)

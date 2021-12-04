@@ -1,6 +1,6 @@
 # Leon
 
-LV4-00 Archer
+LV4-22 Archer
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

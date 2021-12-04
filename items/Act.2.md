@@ -79,4 +79,9 @@
   - Treasure Vault - Iron Sword
   - Treasure Vault - Ram Wine
 
+## Zofia Seaway 3
+
+- Battle:
+  - Cantor - Fruit of Life
+
 [Back](README.md)

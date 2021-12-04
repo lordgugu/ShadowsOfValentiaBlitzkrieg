@@ -1,6 +1,6 @@
 # Valbar
 
-LV1-00 Knight
+LV1-30 Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
