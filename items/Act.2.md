@@ -44,4 +44,9 @@
   - Wharf - Herring
   - Wharf - Herring
 
+## Zofia Seaway 1
+
+- Battle:
+  - Brigand - Bread
+
 [Back](README.md)

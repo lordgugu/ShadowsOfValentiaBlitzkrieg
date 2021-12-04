@@ -1,6 +1,6 @@
 # Celica
 
-LV1-39 Priestess
+LV1-76 Priestess
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

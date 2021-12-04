@@ -1,13 +1,13 @@
 # Genny
 
-LV1-94 Cleric
+LV2-62 Cleric
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 18       |
-| Attack     | 7        |
+| Attack     | 8        |
 | Skill      | 2        |
-| Speed      | 5        |
+| Speed      | 6        |
 | Luck       | 7        |
 | Defense    | 1        |
 | Resistance | 13       |

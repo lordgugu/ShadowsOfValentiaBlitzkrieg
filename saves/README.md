@@ -10,10 +10,10 @@ Main save file of the game. Represents the top save slot in the game.
 | ------------------- | ------------------- |
 | **Act**             | 2                   |
 | **Alm Location**    | Zofia Castle        |
-| **Celica Location** | Novis Greatport     |
+| **Celica Location** | Zofia Seaway 1      |
 | **Date**            | 5th of Avistym, 401 |
-| **Play Time**       | 12:30               |
-| **Turn Count**      | 87                  |
+| **Play Time**       | 12:40               |
+| **Turn Count**      | 90                  |
 
 ## Global
 

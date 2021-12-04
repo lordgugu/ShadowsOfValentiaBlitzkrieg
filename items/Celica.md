@@ -10,6 +10,7 @@
 |          | Golden Dagger    |
 |          | Clair's Lance    |
 |          | Taurus Shard     |
+|          | Bread            |
 |          | Drinking Water   |
 | 3        | Flour            |
 | 2        | Holey Cheese     |
