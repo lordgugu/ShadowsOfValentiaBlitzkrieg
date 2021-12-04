@@ -1,14 +1,14 @@
 # Mae
 
-LV3-99 Mage
+LV5-99 Mage
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 21       |
-| Attack     | 14       |
+| Attack     | 16       |
 | Skill      | 2        |
-| Speed      | 8        |
-| Luck       | 6        |
+| Speed      | 9        |
+| Luck       | 7        |
 | Defense    | 2        |
 | Resistance | 10       |
 | Movement   | 4        |

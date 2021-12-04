@@ -30,5 +30,6 @@
 | [2.1 - Flight from the Ruins (DLC)](A2.1.md) | 11         |
 | [2.2 - Skirmish (Novis Cemetery)](A2.2.md)   | 4          |
 | [2.3 - First Pirate Raid](A2.3.md)           | 3          |
+| [2.4 - Second Pirate Raid](A2.4.md)          | 3          |
 
 [Back](../README.md)

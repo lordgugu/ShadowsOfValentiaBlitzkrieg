@@ -49,4 +49,10 @@
 - Battle:
   - Brigand - Bread
 
+## Zofia Seaway 2
+
+- Battle:
+  - Brigand - Wine
+  - Mercenary - Leather Shield
+
 [Back](README.md)

@@ -10,17 +10,18 @@
 |          | Golden Dagger    |
 |          | Clair's Lance    |
 |          | Taurus Shard     |
+|          | Leather Shield   |
 |          | Bread            |
 |          | Drinking Water   |
 | 3        | Flour            |
 | 2        | Holey Cheese     |
 |          | Garlic           |
 |          | Butter           |
-| 2        | Herring          |
+|          | Herring          |
 |          | Sausage          |
 | 2        | Dried Shieldfish |
 |          | Sweet Cookie     |
-| 3        | Wine             |
+| 4        | Wine             |
 |          | Ale              |
 | 2        | Leftover Ale     |
 |          | Memory Prism 11  |
