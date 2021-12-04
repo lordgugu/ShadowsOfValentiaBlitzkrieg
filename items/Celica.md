@@ -7,23 +7,28 @@
 
 | <!-- --> | Item             |
 | -------- | ---------------- |
+|          | Iron Sword       |
+|          | Steel Sword      |
 |          | Golden Dagger    |
 |          | Clair's Lance    |
+|          | Iron Bow         |
 |          | Taurus Shard     |
 |          | Leather Shield   |
-|          | Bread            |
-|          | Drinking Water   |
+|          | Leftover Bread   |
 | 3        | Flour            |
 | 2        | Holey Cheese     |
 |          | Garlic           |
 |          | Butter           |
 |          | Herring          |
+| 2        | Dried Meat       |
 |          | Sausage          |
 | 2        | Dried Shieldfish |
 |          | Sweet Cookie     |
 | 4        | Wine             |
-|          | Ale              |
-| 2        | Leftover Ale     |
+| 2        | Ale              |
+| 5        | Leftover Ale     |
+|          | Ram Wine         |
+|          | Golden Apple     |
 |          | Memory Prism 11  |
 |          | Memory Prism 12  |
 |          | Memory Prism 13  |

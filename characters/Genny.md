@@ -1,14 +1,14 @@
 # Genny
 
-LV3-30 Cleric
+LV4-67 Cleric
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 18       |
 | Attack     | 9        |
-| Skill      | 3        |
-| Speed      | 6        |
-| Luck       | 7        |
+| Skill      | 4        |
+| Speed      | 7        |
+| Luck       | 8        |
 | Defense    | 2        |
 | Resistance | 13       |
 | Movement   | 4        |
@@ -17,5 +17,6 @@ LV3-30 Cleric
 
 - Nosferatu
 - Recover
+- Invoke
 
 [Back](README.md)

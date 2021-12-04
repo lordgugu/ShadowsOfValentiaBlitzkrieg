@@ -55,4 +55,28 @@
   - Brigand - Wine
   - Mercenary - Leather Shield
 
+## The Pirate Throne
+
+- Battle:
+  - Barth - Dried Meat (Quest Item)
+
+## Pirate Throne Interior
+
+- Initial Equipment:
+  - Leon - Iron Bow
+
+- Collected:
+  - Entrance - Leftover Ale
+  - Entrance - Leftover Ale
+  - Entrance - Ham
+  - Entrance - Dried Meat
+  - Entrance - Leftover Ale
+  - Entrance - Ale
+  - Treasure Vault - Golden Apple
+  - Treasure Vault - Steel Sword
+  - Treasure Vault - Cog
+  - Treasure Vault - Rusted Iron Shield
+  - Treasure Vault - Iron Sword
+  - Treasure Vault - Ram Wine
+
 [Back](README.md)

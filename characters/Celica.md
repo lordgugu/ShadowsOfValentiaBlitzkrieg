@@ -1,15 +1,15 @@
 # Celica
 
-LV1-99 Priestess
+LV2-52 Priestess
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 20       |
-| Attack     | 8        |
-| Skill      | 6        |
+| HP         | 21       |
+| Attack     | 9        |
+| Skill      | 7        |
 | Speed      | 6        |
 | Luck       | 8        |
-| Defense    | 4        |
+| Defense    | 5        |
 | Resistance | 7        |
 | Movement   | 4        |
 
@@ -17,5 +17,6 @@ LV1-99 Priestess
 
 - Sword
 - Fire
+- Swap
 
 [Back](README.md)

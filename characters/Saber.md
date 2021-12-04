@@ -1,6 +1,6 @@
 # Saber
 
-LV2-27 Mercenary
+LV2-86 Mercenary
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

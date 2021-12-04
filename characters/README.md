@@ -20,5 +20,9 @@
 - [Mae](Mae.md)
 - [Boey](Boey.md)
 - [Genny](Genny.md)
+- [Saber](Saber.md)
+- [Valbar](Valbar.md)
+- [Leon](Leon.md)
+- [Kamui](Kamui.md)
 
 [Back](../README.md)
