@@ -1,20 +1,20 @@
-# Boey
+# Saber
 
-LV1-18 Mage
+LV1-00 Mercenary
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 22       |
-| Attack     | 8        |
-| Skill      | 2        |
-| Speed      | 4        |
-| Luck       | 9        |
+| Attack     | 9        |
+| Skill      | 9        |
+| Speed      | 10       |
+| Luck       | 6        |
 | Defense    | 4        |
-| Resistance | 7        |
+| Resistance | 6        |
 | Movement   | 4        |
 
 ## Abilities
 
-- Fire
+- Sword
 
 [Back](README.md)

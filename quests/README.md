@@ -27,5 +27,16 @@
   - Requires going into the dungeon part of the Priory first
   - Gotten from the Languid Hermit at the Entrance
   - Requires defeating 20 Revenants at Novis Cemetery
+  - Defeated 9 in the first Skirmish
+
+### Novis Greatport
+
+- Secret Menu (Started)
+  - Gotten from the Tavernkeep at the Tavern
+  - Requires 3 Mana Herbs
+  - I plan on collecting them during Act 2:
+    - Thieves' Shrine
+    - Deliverance Hideout
+    - Seabound Shrine
 
 [Back](../README.md)

@@ -25,5 +25,23 @@
 - Rewards:
   - Clair's Lance
   - Memory Prism 13
+  
+## Novis Greatport
+
+- Collected:
+  - Entrance - Flour
+  - Entrance - Dried Shieldfish (Quest Item)
+  - Entrance - Flour
+  - Tavern - Dried Shieldfish
+  - Tavern - Garlic
+  - Tavern - Wine
+  - Tavern - Leftover Ale
+  - Tavern - Wine
+  - Tavern - Sausage
+  - Tavern - Leftover Ale
+  - Tavern - Holey Cheese
+  - Tavern - Ale
+  - Wharf - Herring
+  - Wharf - Herring
 
 [Back](README.md)
