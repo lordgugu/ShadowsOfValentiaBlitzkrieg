@@ -35,5 +35,6 @@
 | [2.6 - Third Pirate Raid](Act.2/A2.6.md)            | 4          |
 | [2.7 - Fourth Pirate Raid](Act.2/A2.7.md)           | 4          |
 | [2.8 - Fifth Pirate Raid](Act.2/A2.8.md)            | 3          |
+| [2.9 - Zofia Castle Ambush](Act.2/A2.9.md)          | 4          |
 
 [Back](../README.md)

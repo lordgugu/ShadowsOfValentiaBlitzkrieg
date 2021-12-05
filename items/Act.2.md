@@ -119,4 +119,20 @@
 - Quest Rewards:
   - Square - Fruit of Life
 
+## Zofia Castle
+
+- Collected:
+  - Central Hall - Steel Lance (Quest Item)
+  - Central Hall - Iron Shield
+  - Treasure Vault - Blue Cheese (Quest Item)
+
+- Quest Rewards:
+  - Central Hall - Honey (Quest Item)
+  - Central Hall - Medicinal Syrup (Quest Item)
+
+## Zofia Harbor
+
+- Quest Rewards:
+  - Tavern - Sweet Cookie
+
 [Back](README.md)

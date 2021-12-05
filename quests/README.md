@@ -47,8 +47,25 @@
   - Requires 5 Coral Fragments
   - Sold him 1 found at the Entrance of Zofia Harbor
 
-- Sweet Treats
+- Sweet Treats - COMPLETED
   - Gotten from the Tavernkeep's Wife at the Tavern
   - Requires Flour, Honey, and Butter
+  - Completed with Celica after the Zofia Castle Ambush
+
+### Zofia Castle
+
+- The Grand Duke of Dairy #1 - COMPLETED
+  - Gotten from the Cheese Lover at the Central Hall
+  - Requires Holey Cheese
+  - Completed with Celica after the Zofia Castle Ambush
+
+- The Grand Duke of Dairy #2 - COMPLETED
+  - Gotten from the Cheese Lover at the Central Hall
+  - Requires Blue Cheese
+  - Completed with Celica after the Zofia Castle Ambush
+
+- The Grand Duke of Dairy #3
+  - Gotten from the Cheese Lover at the Central Hall
+  - Requires Pegasus Cheese
 
 [Back](../README.md)
