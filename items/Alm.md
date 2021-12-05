@@ -41,7 +41,7 @@
 |          | Memory Prism 11      |
 |          | Memory Prism 12      |
 |          | Memory Prism 13      |
-|          | Cog                  |
+| 2        | Cog                  |
 |          | Mila's Turnwheel     |
 
 [Back](README.md)

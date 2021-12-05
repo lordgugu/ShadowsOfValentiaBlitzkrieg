@@ -83,5 +83,40 @@
 
 - Battle:
   - Cantor - Fruit of Life
+  
+## Zofia Harbor
+
+- Collected:
+  - Wharf - Black Pearl
+  - Wharf - Herring
+  - Tavern - Ale
+  - Tavern - Cold Soup
+  - Tavern - Ale
+  - Tavern - Wine
+  - Entrance - Coral Fragment (Quest Item)
+
+## Deliverance Hideout
+
+- Collected:
+  - Mila Idol - Mana Herbs (Quest Item)
+
+## Southern Outpost Interior
+
+- Collected:
+  - Entrance - Iron Lance (Quest Item)
+  - Entrance - Rusted Steel Shield
+
+## Thieves' Shrine
+
+- Collected:
+  - Mila Idol - Mana Herbs (Quest Item)
+
+## Ram Village
+
+- Collected:
+  - Mycen's House - Splitting Axe (Quest Item)
+
+- Quest Rewards:
+  - Square - Fruit of Life
 
 [Back](README.md)

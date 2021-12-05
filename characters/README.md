@@ -1,28 +1,28 @@
 # Characters
 
-## Alm's Units
+## Deliverance
 
-- [Alm](Alm.md)
-- [Lukas](Lukas.md)
-- [Gray](Gray.md)
-- [Tobin](Tobin.md)
-- [Faye](Faye.md)
-- [Kliff](Kliff.md)
-- [Silque](Silque.md)
-- [Clair](Clair.md)
-- [Clive](Clive.md)
-- [Forsyth](Forsyth.md)
-- [Python](Python.md)
+- [Alm](Deliverance/Alm.md)
+- [Lukas](Deliverance/Lukas.md)
+- [Gray](Deliverance/Gray.md)
+- [Tobin](Deliverance/Tobin.md)
+- [Faye](Deliverance/Faye.md)
+- [Kliff](Deliverance/Kliff.md)
+- [Silque](Deliverance/Silque.md)
+- [Clair](Deliverance/Clair.md)
+- [Clive](Deliverance/Clive.md)
+- [Forsyth](Deliverance/Forsyth.md)
+- [Python](Deliverance/Python.md)
 
-## Celica's Units
+## Pilgrimage
 
-- [Celica](Celica.md)
-- [Mae](Mae.md)
-- [Boey](Boey.md)
-- [Genny](Genny.md)
-- [Saber](Saber.md)
-- [Valbar](Valbar.md)
-- [Leon](Leon.md)
-- [Kamui](Kamui.md)
+- [Celica](Pilgrimage/Celica.md)
+- [Mae](Pilgrimage/Mae.md)
+- [Boey](Pilgrimage/Boey.md)
+- [Genny](Pilgrimage/Genny.md)
+- [Saber](Pilgrimage/Saber.md)
+- [Valbar](Pilgrimage/Valbar.md)
+- [Leon](Pilgrimage/Leon.md)
+- [Kamui](Pilgrimage/Kamui.md)
 
 [Back](../README.md)
