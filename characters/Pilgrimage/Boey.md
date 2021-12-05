@@ -1,6 +1,6 @@
 # Boey
 
-LV2-16 Mage
+LV2-31 Mage
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
@@ -12,6 +12,10 @@ LV2-16 Mage
 | Defense    | 4        |
 | Resistance | 7        |
 | Movement   | 4        |
+
+| Supports | <!-- --> |
+| -------- | -------- |
+| Mae      | C        |
 
 ## Abilities
 

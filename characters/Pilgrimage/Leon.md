@@ -1,6 +1,6 @@
 # Leon
 
-LV1-00 Sniper
+LV1-11 Sniper
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

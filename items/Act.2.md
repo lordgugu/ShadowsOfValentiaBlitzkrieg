@@ -135,4 +135,24 @@
 - Quest Rewards:
   - Tavern - Sweet Cookie
 
+## Seabound Shrine
+
+- Battle:
+  - Necrodragon - Blessed Ring
+
+## Seabound Shrine Interior
+
+- Collected:
+  - Mila Idol - Mana Herbs (Quest Item)
+  - Mila Idol - Memory Prism 1
+  - Area 2 - Blessed Sword
+
+- Random Treasure:
+  - Area 1 - 4x Coral Fragment (Quest Item)
+  
+## Novis Greatport
+
+- Quest Rewards:
+  - Tavern - Medicinal Syrup (Quest Item)
+
 [Back](README.md)

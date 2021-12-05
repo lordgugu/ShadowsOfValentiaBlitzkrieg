@@ -2,13 +2,14 @@
 
 | Coins  | Amount |
 | ------ | ------ |
-| Silver | 17     |
+| Silver | 104    |
 | Gold   | 5      |
 
 | <!-- --> | Item                |
 | -------- | ------------------- |
 |          | Iron Sword          |
 |          | Steel Sword         |
+|          | Blessed Sword       |
 |          | Golden Dagger       |
 |          | Iron Lance          |
 |          | Steel Lance         |
@@ -20,24 +21,25 @@
 |          | Rusted Steel Shield |
 |          | Leather Shield      |
 |          | Iron Shield         |
+|          | Blessed Ring        |
 |          | Leftover Bread      |
 |          | Flour               |
 |          | Holey Cheese        |
 |          | Garlic              |
-| 2        | Mana Herbs          |
-|          | Butter              |
 | 2        | Herring             |
-| 2        | Dried Meat          |
+|          | Dried Meat          |
 |          | Sausage             |
+|          | Ham                 |
 | 2        | Dried Shieldfish    |
 | 2        | Sweet Cookie        |
 | 5        | Wine                |
 | 4        | Ale                 |
 | 5        | Leftover Ale        |
 |          | Ram Wine            |
-|          | Medicinal Syrup     |
+| 2        | Medicinal Syrup     |
 | 2        | Fruit of Life       |
 |          | Golden Apple        |
+|          | Memory Prism 1      |
 |          | Memory Prism 11     |
 |          | Memory Prism 12     |
 |          | Memory Prism 13     |

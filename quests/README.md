@@ -32,20 +32,18 @@
 
 ### Novis Greatport
 
-- Secret Menu
+- Secret Menu - COMPLETED
   - Gotten from the Tavernkeep at the Tavern
   - Requires 3 Mana Herbs
-  - I plan on collecting them during Act 2:
-    - Thieves' Shrine
-    - Deliverance Hideout
-    - Seabound Shrine
+  - Completed with Celica after the Beast Hunt
 
 ### Zofia Harbor
 
-- Corraling Coral
+- Corraling Coral - COMPLETED
   - Gotten from Alessio at the Wharf
   - Requires 5 Coral Fragments
   - Sold him 1 found at the Entrance of Zofia Harbor
+  - Collected 4 randomly from Seabound Shrine and completed with Celica after the Beast Hunt
 
 - Sweet Treats - COMPLETED
   - Gotten from the Tavernkeep's Wife at the Tavern
@@ -67,5 +65,12 @@
 - The Grand Duke of Dairy #3
   - Gotten from the Cheese Lover at the Central Hall
   - Requires Pegasus Cheese
+
+### Seabound Shrine Interior
+
+- The Famished Fisherman - COMPLETED
+  - Gotten from the Feeble Man at the Mila Idol
+  - Requires Sausage, Ham, Dried Meat, or Raw Meat
+  - Completed with Celica after the Beast Hunt by giving him Dried Meat
 
 [Back](../README.md)

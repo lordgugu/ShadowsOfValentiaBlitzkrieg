@@ -1,13 +1,13 @@
 # Celica
 
-LV5-99 Priestess
+LV6-09 Priestess
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 23       |
-| Attack     | 12       |
+| HP         | 24       |
+| Attack     | 13       |
 | Skill      | 8        |
-| Speed      | 9        |
+| Speed      | 10       |
 | Luck       | 11       |
 | Defense    | 6        |
 | Resistance | 8        |

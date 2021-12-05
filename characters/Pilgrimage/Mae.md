@@ -1,6 +1,6 @@
 # Mae
 
-LV10-62 Mage
+LV10-99 Mage
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
@@ -16,6 +16,7 @@ LV10-62 Mage
 | Supports | <!-- --> |
 | -------- | -------- |
 | Celica   | C        |
+| Boey     | C        |
 
 ## Abilities
 

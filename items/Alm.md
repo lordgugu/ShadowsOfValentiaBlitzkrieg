@@ -38,6 +38,7 @@
 | 4        | Ale                  |
 | 4        | Leftover Ale         |
 |          | Ram Wine             |
+|          | Memory Prism 1       |
 |          | Memory Prism 11      |
 |          | Memory Prism 12      |
 |          | Memory Prism 13      |
