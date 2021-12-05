@@ -1,6 +1,6 @@
 # Valbar
 
-LV1-30 Knight
+LV1-76 Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
@@ -17,5 +17,6 @@ LV1-30 Knight
 
 - Lance
 - Armored
+- Swap
 
 [Back](README.md)

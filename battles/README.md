@@ -33,5 +33,6 @@
 | [2.4 - Second Pirate Raid](A2.4.md)           | 3          |
 | [2.5 - Assault on the Pirate Throne](A2.5.md) | 5          |
 | [2.6 - Third Pirate Raid](A2.6.md)            | 4          |
+| [2.7 - Fourth Pirate Raid](A2.7.md)           | 4          |
 
 [Back](../README.md)

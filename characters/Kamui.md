@@ -1,6 +1,6 @@
 # Kamui
 
-LV3-32 Mercenary
+LV3-50 Mercenary
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
