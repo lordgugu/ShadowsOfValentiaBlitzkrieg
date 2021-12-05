@@ -24,4 +24,8 @@ LV10-62 Mage
 - Aura
 - Swap
 
+## Fountains/Stat Boosters
+
+- Deliverance Hideout - Attack +3
+
 [Back](../README.md)

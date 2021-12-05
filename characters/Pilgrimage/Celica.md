@@ -23,4 +23,8 @@ LV4-19 Priestess
 - Fire
 - Swap
 
+## Fountains/Stat Boosters
+
+- Deliverance Hideout - Attack +1
+
 [Back](../README.md)

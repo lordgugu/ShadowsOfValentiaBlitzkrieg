@@ -24,4 +24,8 @@ LV2 Paladin
 - Mounted
 - Swap
 
+## Fountains/Stat Boosters
+
+- Thieves' Shrine - Speed +1
+
 [Back](../README.md)
