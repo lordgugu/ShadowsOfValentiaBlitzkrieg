@@ -1,20 +1,21 @@
 # Saber
 
-LV5-18 Mercenary
+LV1-80 Myrmidon
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 26       |
+| HP         | 30       |
 | Attack     | 12       |
-| Skill      | 11       |
-| Speed      | 11       |
-| Luck       | 7        |
-| Defense    | 5        |
+| Skill      | 12       |
+| Speed      | 14       |
+| Luck       | 8        |
+| Defense    | 7        |
 | Resistance | 6        |
-| Movement   | 4        |
+| Movement   | 5        |
 
 ## Abilities
 
 - Sword
+- Plenitude
 
 [Back](../README.md)

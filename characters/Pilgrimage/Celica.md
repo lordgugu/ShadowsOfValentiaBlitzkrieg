@@ -1,15 +1,15 @@
 # Celica
 
-LV6-09 Priestess
+LV8-33 Priestess
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 24       |
-| Attack     | 13       |
-| Skill      | 8        |
-| Speed      | 10       |
-| Luck       | 11       |
-| Defense    | 6        |
+| HP         | 26       |
+| Attack     | 15       |
+| Skill      | 10       |
+| Speed      | 12       |
+| Luck       | 13       |
+| Defense    | 7        |
 | Resistance | 8        |
 | Movement   | 4        |
 
@@ -21,7 +21,9 @@ LV6-09 Priestess
 
 - Sword
 - Fire
+- Thunder
 - Seraphim
+- Shove
 - Swap
 
 ## Fountains/Stat Boosters

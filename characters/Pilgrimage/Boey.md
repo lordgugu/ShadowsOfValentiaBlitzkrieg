@@ -1,15 +1,15 @@
 # Boey
 
-LV2-31 Mage
+LV6-12 Mage
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 22       |
-| Attack     | 8        |
-| Skill      | 3        |
-| Speed      | 5        |
+| HP         | 24       |
+| Attack     | 10       |
+| Skill      | 6        |
+| Speed      | 8        |
 | Luck       | 10       |
-| Defense    | 4        |
+| Defense    | 5        |
 | Resistance | 7        |
 | Movement   | 4        |
 
@@ -20,5 +20,8 @@ LV2-31 Mage
 ## Abilities
 
 - Fire
+- Thunder
+- Swap
+- Shove
 
 [Back](../README.md)

@@ -6,14 +6,14 @@ The game is played on 3DS and save files of this run are extracted from the game
 
 Main save file of the game. Represents the top save slot in the game.
 
-| Current Info        | <!-- -->             |
-| ------------------- | -------------------- |
-| **Act**             | 2                    |
-| **Alm Location**    | Zofia Castle         |
-| **Celica Location** | Novis Greatport      |
-| **Date**            | 67th of Avistym, 401 |
-| **Play Time**       | 16:10                |
-| **Turn Count**      | 115                  |
+| Current Info        | <!-- -->              |
+| ------------------- | --------------------- |
+| **Act**             | 2                     |
+| **Alm Location**    | Zofia Castle          |
+| **Celica Location** | Zofia Castle          |
+| **Date**            | 154th of Avistym, 401 |
+| **Play Time**       | 96:00                 |
+| **Turn Count**      | 123                   |
 
 ## Global
 

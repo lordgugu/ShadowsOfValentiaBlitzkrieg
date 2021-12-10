@@ -1,21 +1,22 @@
 # Valbar
 
-LV1-99 Knight
+LV5-95 Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 30       |
-| Attack     | 14       |
-| Skill      | 5        |
-| Speed      | 2        |
+| HP         | 33       |
+| Attack     | 15       |
+| Skill      | 6        |
+| Speed      | 5        |
 | Luck       | 1        |
-| Defense    | 12       |
+| Defense    | 15       |
 | Resistance | 0        |
 | Movement   | 4        |
 
 ## Abilities
 
 - Lance
+- Mistdancer
 - Armored
 - Swap
 

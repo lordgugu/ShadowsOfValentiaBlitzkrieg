@@ -154,5 +154,33 @@
 
 - Quest Rewards:
   - Tavern - Medicinal Syrup (Quest Item)
+  
+## Thieves' Shrine
+
+- Random Treasure:
+  - Main Area - Orange
+  - Main Area - Leftover Ale
+  - Main Area - Ale
+  
+## Seabound Shrine
+
+- Random Treasure:
+  - Area 2 - Hard Bread
+  
+## Thieves' Shrine
+
+- Random Treasure:
+  - Main Area - 4x Ale
+  - Main Area - 9x Carrot
+  - Main Area - 6x Leftover Ale
+  - Main Area - Orange
+  - Main Area - Holey Cheese
+  - Main Area - Garlic
+  
+## Deliverance Hideout
+
+- Random Treasure:
+  - Main Area - 3x Drinking Water
+  - Main Area - 3x Leftover Ale
 
 [Back](README.md)

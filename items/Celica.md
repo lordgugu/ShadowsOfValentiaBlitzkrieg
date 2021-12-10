@@ -2,7 +2,7 @@
 
 | Coins  | Amount |
 | ------ | ------ |
-| Silver | 104    |
+| Silver | 285    |
 | Gold   | 5      |
 
 | <!-- --> | Item                |
@@ -22,10 +22,14 @@
 |          | Leather Shield      |
 |          | Iron Shield         |
 |          | Blessed Ring        |
+| 2        | Orange              |
 |          | Leftover Bread      |
+| 3        | Drinking Water      |
+|          | Hard Bread          |
 |          | Flour               |
-|          | Holey Cheese        |
-|          | Garlic              |
+| 9        | Carrot              |
+| 2        | Holey Cheese        |
+| 2        | Garlic              |
 | 2        | Herring             |
 |          | Dried Meat          |
 |          | Sausage             |
@@ -33,12 +37,11 @@
 | 2        | Dried Shieldfish    |
 | 2        | Sweet Cookie        |
 | 5        | Wine                |
-| 4        | Ale                 |
-| 5        | Leftover Ale        |
+| 9        | Ale                 |
+| 15       | Leftover Ale        |
 |          | Ram Wine            |
 | 2        | Medicinal Syrup     |
 | 2        | Fruit of Life       |
-|          | Golden Apple        |
 |          | Memory Prism 1      |
 |          | Memory Prism 11     |
 |          | Memory Prism 12     |
