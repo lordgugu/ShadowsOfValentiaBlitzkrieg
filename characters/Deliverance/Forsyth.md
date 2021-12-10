@@ -1,6 +1,6 @@
 # Forsyth
 
-LV1 Knight
+LV1-56 Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

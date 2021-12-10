@@ -1,6 +1,6 @@
 # Clive
 
-LV2 Paladin
+LV2-82 Paladin
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

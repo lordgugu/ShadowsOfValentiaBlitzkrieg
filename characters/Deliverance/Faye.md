@@ -1,6 +1,6 @@
 # Faye
 
-LV10 Cleric
+LV10-47 Cleric
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

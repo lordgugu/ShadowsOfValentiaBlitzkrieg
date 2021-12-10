@@ -1,6 +1,6 @@
 # Python
 
-LV2 Sniper
+LV2-88 Sniper
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
