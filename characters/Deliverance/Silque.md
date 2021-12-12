@@ -1,11 +1,11 @@
 # Silque
 
-LV9-57 Cleric
+LV9-67 Cleric
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 20       |
-| Attack     | 15       |
+| Attack     | 16       |
 | Skill      | 7        |
 | Speed      | 6        |
 | Luck       | 11       |
@@ -22,5 +22,9 @@ LV9-57 Cleric
 - Nosferatu
 - Recover
 - Warp
+
+## Fountains/Stat Boosters
+
+- Deliverance Hideout - Attack +1
 
 [Back](../README.md)

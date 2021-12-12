@@ -73,4 +73,24 @@
   - Requires Sausage, Ham, Dried Meat, or Raw Meat
   - Completed with Celica after the Beast Hunt by giving him Dried Meat
 
+## Act 3
+
+### Zofia Castle
+
+- One Man's Trash... - COMPLETED
+  - Gotten from the Scholarly Man at the Treasure Vault
+  - Requires the Lima Armlet from the Entombed at the Deliverance Hideout
+  - Went to get the Lima Armlet at the start of Act 3 with Alm
+
+- Taken Treasure: Desaix's Vault
+  - Gotten from Lord Rion at the Central Hall
+  - Requires the Rion Shield
+  - Must be obtained from Celica's route and transferred through a Peddler
+  - Will probably not be completed until Act 4 because the Rion Shield is very useful
+
+- A Royal Requiem
+  - Requires talking to the Restless Man in the Central Hall after completing One Man's Trash...
+  - Gotten from the Eerie Hermit at the Throne Room
+  - Requires defeating the enemy Specters at the Deliverance Hideout
+
 [Back](../README.md)

@@ -2,7 +2,7 @@
 
 | Coins  | Amount |
 | ------ | ------ |
-| Silver | 197    |
+| Silver | 231    |
 | Gold   | 0      |
 
 | <!-- --> | Item                 |
@@ -39,6 +39,7 @@
 | 4        | Leftover Ale         |
 |          | Ram Wine             |
 |          | Memory Prism 1       |
+|          | Memory Prism 8       |
 |          | Memory Prism 11      |
 |          | Memory Prism 12      |
 |          | Memory Prism 13      |

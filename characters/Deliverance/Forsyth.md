@@ -1,13 +1,13 @@
 # Forsyth
 
-LV1-56 Knight
+LV2-70 Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 34       |
 | Attack     | 16       |
-| Skill      | 5        |
-| Speed      | 5        |
+| Skill      | 6        |
+| Speed      | 6        |
 | Luck       | 4        |
 | Defense    | 12       |
 | Resistance | 5        |

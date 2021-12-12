@@ -1,13 +1,13 @@
 # Python
 
-LV2-88 Sniper
+LV3-14 Sniper
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 31       |
-| Attack     | 12       |
+| HP         | 32       |
+| Attack     | 13       |
 | Skill      | 6        |
-| Speed      | 6        |
+| Speed      | 7        |
 | Luck       | 3        |
 | Defense    | 6        |
 | Resistance | 4        |
