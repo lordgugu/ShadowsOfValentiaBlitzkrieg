@@ -2,7 +2,7 @@
 
 | Coins  | Amount |
 | ------ | ------ |
-| Silver | 231    |
+| Silver | 251    |
 | Gold   | 0      |
 
 | <!-- --> | Item                 |

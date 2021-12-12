@@ -9,11 +9,15 @@ Main save file of the game. Represents the top save slot in the game.
 | Current Info        | <!-- -->              |
 | ------------------- | --------------------- |
 | **Act**             | 3                     |
-| **Alm Location**    | Northern Zofia        |
+| **Alm Location**    | Zofia Forest 1        |
 | **Celica Location** | Mountain Highway      |
-| **Date**            | 11th of Pegastym, 401 |
-| **Play Time**       | 20:29                 |
-| **Turn Count**      | 128                   |
+| **Date**            | 18th of Pegastym, 401 |
+| **Play Time**       | 21:51                 |
+| **Turn Count**      | 131                   |
+
+# Temporary.bak
+
+Bookmark prior to completing the First Battle of Zofia Forest on Turn 3 Player Phase. Mila's Turnwheel has been restored to allow reviewing the play-by-play.
 
 ## Global
 

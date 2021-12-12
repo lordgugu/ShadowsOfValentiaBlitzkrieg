@@ -1,15 +1,15 @@
 # Kliff
 
-LV5-67 Myrmidon
+LV6-53 Myrmidon
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 32       |
 | Attack     | 13       |
-| Skill      | 14       |
-| Speed      | 18       |
+| Skill      | 15       |
+| Speed      | 19       |
 | Luck       | 12       |
-| Defense    | 8        |
+| Defense    | 9        |
 | Resistance | 8        |
 | Movement   | 5        |
 

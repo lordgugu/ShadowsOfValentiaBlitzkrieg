@@ -1,15 +1,15 @@
 # Lukas
 
-LV2-48 Knight
+LV3-17 Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 34       |
-| Attack     | 17       |
+| HP         | 35       |
+| Attack     | 18       |
 | Skill      | 6        |
 | Speed      | 6        |
 | Luck       | 5        |
-| Defense    | 12       |
+| Defense    | 13       |
 | Resistance | 2        |
 | Movement   | 4        |
 

@@ -1,11 +1,11 @@
 # Gray
 
-LV4-75 Mage
+LV5-97 Mage
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 29       |
-| Attack     | 12       |
+| Attack     | 13       |
 | Skill      | 7        |
 | Speed      | 5        |
 | Luck       | 3        |
