@@ -1,11 +1,11 @@
 # Forsyth
 
-LV2-70 Knight
+LV3-39 Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 34       |
-| Attack     | 16       |
+| HP         | 35       |
+| Attack     | 17       |
 | Skill      | 6        |
 | Speed      | 6        |
 | Luck       | 4        |
@@ -15,12 +15,14 @@ LV2-70 Knight
 
 | Supports | <!-- --> |
 | -------- | -------- |
+| Lukas    | C        |
 | Clive    | C        |
 | Python   | C        |
 
 ## Abilities
 
 - Lance
+- Armorcrush
 - Armored
 
 [Back](../README.md)

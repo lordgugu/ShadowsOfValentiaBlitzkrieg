@@ -1,20 +1,21 @@
 # Tobin
 
-LV7-84 Mage
+LV8-06 Mage
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 30       |
+| HP         | 31       |
 | Attack     | 11       |
 | Skill      | 10       |
 | Speed      | 10       |
 | Luck       | 8        |
-| Defense    | 7        |
+| Defense    | 8        |
 | Resistance | 4        |
 | Movement   | 4        |
 
 | Supports | <!-- --> |
 | -------- | -------- |
+| Gray     | C        |
 | Kliff    | B        |
 
 ## Abilities

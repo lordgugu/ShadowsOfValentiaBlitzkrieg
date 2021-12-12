@@ -1,6 +1,6 @@
 # Lukas
 
-LV2-34 Knight
+LV2-48 Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
@@ -12,6 +12,11 @@ LV2-34 Knight
 | Defense    | 12       |
 | Resistance | 2        |
 | Movement   | 4        |
+
+| Supports | <!-- --> |
+| -------- | -------- |
+| Forsyth  | C        |
+| Python   | C        |
 
 ## Abilities
 

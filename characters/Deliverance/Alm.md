@@ -1,6 +1,6 @@
 # Alm
 
-LV6-28 Fighter
+LV6-36 Fighter
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

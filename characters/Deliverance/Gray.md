@@ -1,6 +1,6 @@
 # Gray
 
-LV4-64 Mage
+LV4-75 Mage
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
@@ -12,6 +12,10 @@ LV4-64 Mage
 | Defense    | 6        |
 | Resistance | 2        |
 | Movement   | 4        |
+
+| Supports | <!-- --> |
+| -------- | -------- |
+| Tobin    | C        |
 
 ## Abilities
 

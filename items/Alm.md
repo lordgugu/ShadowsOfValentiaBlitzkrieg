@@ -23,7 +23,7 @@
 |          | Dracoshield          |
 |          | Lukas's Shield       |
 | 10       | Orange               |
-| 3        | Bread                |
+| 4        | Bread                |
 |          | Leftover Bread       |
 | 2        | Bread Piece          |
 |          | Drinking Water       |

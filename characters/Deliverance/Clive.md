@@ -1,15 +1,15 @@
 # Clive
 
-LV3-11 Paladin
+LV4-41 Paladin
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 29       |
-| Attack     | 14       |
+| HP         | 30       |
+| Attack     | 15       |
 | Skill      | 8        |
 | Speed      | 11       |
 | Luck       | 7        |
-| Defense    | 9        |
+| Defense    | 10       |
 | Resistance | 1        |
 | Movement   | 8        |
 

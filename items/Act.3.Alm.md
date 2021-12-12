@@ -10,4 +10,9 @@
 - Battle:
   - Entombed - Lima Armlet (Quest Item)
 
+## Northern Zofia
+
+- Battle:
+  - Fernand - Bread
+
 [Back](README.md)

@@ -41,8 +41,9 @@
 
 ## Act 3 - Alm
 
-| Encounter                                     | Turn Count |
-| --------------------------------------------- | ---------- |
-| [3.1 - One Man's Trash...](Act.3/A3.Alm.1.md) | 1          |
+| Encounter                                           | Turn Count |
+| --------------------------------------------------- | ---------- |
+| [3.1 - One Man's Trash...](Act.3/A3.Alm.1.md)       | 1          |
+| [3.2 - Battle of Northern Zofia](Act.3/A3.Alm.2.md) | 4          |
 
 [Back](../README.md)

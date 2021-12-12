@@ -1,6 +1,6 @@
 # Silque
 
-LV9-67 Cleric
+LV9-88 Cleric
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
@@ -22,6 +22,7 @@ LV9-67 Cleric
 - Nosferatu
 - Recover
 - Warp
+- Swap
 
 ## Fountains/Stat Boosters
 

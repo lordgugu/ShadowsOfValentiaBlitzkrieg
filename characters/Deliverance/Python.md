@@ -1,13 +1,13 @@
 # Python
 
-LV3-14 Sniper
+LV4-19 Sniper
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 32       |
+| HP         | 33       |
 | Attack     | 13       |
 | Skill      | 6        |
-| Speed      | 7        |
+| Speed      | 8        |
 | Luck       | 3        |
 | Defense    | 6        |
 | Resistance | 4        |
@@ -15,6 +15,7 @@ LV3-14 Sniper
 
 | Supports | <!-- --> |
 | -------- | -------- |
+| Lukas    | C        |
 | Clive    | C        |
 | Forsyth  | C        |
 

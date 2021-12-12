@@ -1,14 +1,14 @@
 # Clair
 
-LV5-84 Pegasus Knight
+LV6-99 Pegasus Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 21       |
 | Attack     | 9        |
-| Skill      | 6        |
+| Skill      | 7        |
 | Speed      | 9        |
-| Luck       | 15       |
+| Luck       | 16       |
 | Defense    | 5        |
 | Resistance | 8        |
 | Movement   | 7        |
