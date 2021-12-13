@@ -44,6 +44,7 @@
 | 2        | Fruit of Life       |
 |          | Memory Prism 1      |
 |          | Memory Prism 8      |
+|          | Memory Prism 9      |
 |          | Memory Prism 11     |
 |          | Memory Prism 12     |
 |          | Memory Prism 13     |

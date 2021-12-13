@@ -1,6 +1,6 @@
 # Clair
 
-LV8-78 Pegasus Knight
+LV8-85 Pegasus Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
@@ -16,6 +16,7 @@ LV8-78 Pegasus Knight
 | Supports | <!-- --> |
 | -------- | -------- |
 | Alm      | C        |
+| Gray     | C        |
 
 ## Abilities
 

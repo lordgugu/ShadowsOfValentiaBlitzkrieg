@@ -93,4 +93,10 @@
   - Gotten from the Eerie Hermit at the Throne Room
   - Requires defeating the enemy Specters at the Deliverance Hideout
 
+### Forest Village
+
+- Goylenapped
+  - Gotten from the Man at House 2
+  - Requires rescuing his daughter, who can be found at the Mila Idol of the Sylvan Shrine
+
 [Back](../README.md)

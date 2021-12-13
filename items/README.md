@@ -4,6 +4,8 @@
 
 [Celica's Inventory](Celica.md)
 
+[Provisions Eaten](Provisions.md)
+
 ## Collection Checklists
 
 [Act 1](Act.1.md)

@@ -1,14 +1,14 @@
 # Tobin
 
-LV8-73 Mage
+LV9-09 Mage
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 31       |
+| HP         | 32       |
 | Attack     | 11       |
 | Skill      | 10       |
-| Speed      | 10       |
-| Luck       | 8        |
+| Speed      | 11       |
+| Luck       | 9        |
 | Defense    | 8        |
 | Resistance | 4        |
 | Movement   | 4        |

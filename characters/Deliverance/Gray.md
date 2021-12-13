@@ -1,13 +1,13 @@
 # Gray
 
-LV5-97 Mage
+LV6-18 Mage
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 29       |
+| HP         | 30       |
 | Attack     | 13       |
 | Skill      | 7        |
-| Speed      | 5        |
+| Speed      | 6        |
 | Luck       | 3        |
 | Defense    | 6        |
 | Resistance | 2        |
@@ -16,6 +16,7 @@ LV5-97 Mage
 | Supports | <!-- --> |
 | -------- | -------- |
 | Tobin    | C        |
+| Clair    | C        |
 
 ## Abilities
 

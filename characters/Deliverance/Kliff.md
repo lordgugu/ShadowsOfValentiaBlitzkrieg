@@ -1,6 +1,6 @@
 # Kliff
 
-LV6-53 Myrmidon
+LV6-60 Myrmidon
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

@@ -13,6 +13,7 @@
 - [Clive](Deliverance/Clive.md)
 - [Forsyth](Deliverance/Forsyth.md)
 - [Python](Deliverance/Python.md)
+- [Luthier](Deliverance/Luthier.md)
 
 ## Pilgrimage
 

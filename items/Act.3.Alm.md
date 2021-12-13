@@ -15,4 +15,29 @@
 - Battle:
   - Fernand - Bread
 
+## Forest Crossroads
+
+- Battle:
+  - Fernand - Honey
+  - Berkut - Blessed Ring
+
+## Forest Village
+
+- Collected:
+  - Entrance - Orange
+  - Square - Drinking Water
+  - Square - Flour
+  - House 1 - Orange
+  - House 2 - Memory Prism 9
+  - Smithy - Drinking Water
+
+- Initial Equipment:
+  - Luthier - Mana Herbs
+
+- Forges:
+  - Rusted Sword => Ettard (Steel Sword +3)
+  - Steel Lance => Heavy Spear (Steel Lance +3)
+  - Ridersbane => Horseslayer (Ridersbane +1)
+  - Steel Bow => Killer Bow
+
 [Back](README.md)
