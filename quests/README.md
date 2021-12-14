@@ -62,9 +62,10 @@
   - Requires Blue Cheese
   - Completed with Celica after the Zofia Castle Ambush
 
-- The Grand Duke of Dairy #3
+- The Grand Duke of Dairy #3 - COMPLETED
   - Gotten from the Cheese Lover at the Central Hall
   - Requires Pegasus Cheese
+  - Completed with Alm after the Siege of Desaix's Fortress
 
 ### Seabound Shrine Interior
 
@@ -98,5 +99,12 @@
 - Goylenapped
   - Gotten from the Man at House 2
   - Requires rescuing his daughter, who can be found at the Mila Idol of the Sylvan Shrine
+
+### Desaix's Fortress Interior
+
+- A Bargain Bauble - COMPLETED
+  - Gotten from Alessio in the War Room
+  - Requires 30 Silver
+  - Completed with Alm immediately after collecting it
 
 [Back](../README.md)

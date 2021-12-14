@@ -1,14 +1,14 @@
 # Forsyth
 
-LV4-34 Knight
+LV5-24 Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 36       |
-| Attack     | 18       |
+| Attack     | 19       |
 | Skill      | 6        |
-| Speed      | 6        |
-| Luck       | 4        |
+| Speed      | 7        |
+| Luck       | 5        |
 | Defense    | 12       |
 | Resistance | 5        |
 | Movement   | 4        |
@@ -22,7 +22,7 @@ LV4-34 Knight
 ## Abilities
 
 - Lance
-- Armorcrush
 - Armored
+- Armorcrush
 
 [Back](../README.md)

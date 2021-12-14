@@ -1,12 +1,12 @@
 # Python
 
-LV5-23 Sniper
+LV6-23 Sniper
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 33       |
 | Attack     | 14       |
-| Skill      | 6        |
+| Skill      | 7        |
 | Speed      | 8        |
 | Luck       | 3        |
 | Defense    | 7        |
@@ -22,7 +22,7 @@ LV5-23 Sniper
 ## Abilities
 
 - Bow
-- Curved Shot
 - Bowrange +2
+- Curved Shot
 
 [Back](../README.md)

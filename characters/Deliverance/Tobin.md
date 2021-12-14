@@ -1,6 +1,6 @@
 # Tobin
 
-LV9-09 Mage
+LV9-28 Mage
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
@@ -22,6 +22,7 @@ LV9-09 Mage
 
 - Fire
 - Excalibur
+- Shove
 - Swap
 
 [Back](../README.md)

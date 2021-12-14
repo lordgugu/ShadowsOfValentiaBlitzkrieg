@@ -1,6 +1,6 @@
 # Clair
 
-LV8-85 Pegasus Knight
+LV8-96 Pegasus Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
@@ -21,9 +21,9 @@ LV8-85 Pegasus Knight
 ## Abilities
 
 - Lance
+- Flier
 - Wrath Strike
 - Shove
 - Swap
-- Flier
 
 [Back](../README.md)

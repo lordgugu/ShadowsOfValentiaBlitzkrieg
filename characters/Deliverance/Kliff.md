@@ -1,6 +1,6 @@
 # Kliff
 
-LV6-60 Myrmidon
+LV7-60 Myrmidon
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
@@ -9,7 +9,7 @@ LV6-60 Myrmidon
 | Skill      | 15       |
 | Speed      | 19       |
 | Luck       | 12       |
-| Defense    | 9        |
+| Defense    | 10       |
 | Resistance | 8        |
 | Movement   | 5        |
 
@@ -21,5 +21,6 @@ LV6-60 Myrmidon
 
 - Sword
 - Thunderclap
+- Foudroyant
 
 [Back](../README.md)

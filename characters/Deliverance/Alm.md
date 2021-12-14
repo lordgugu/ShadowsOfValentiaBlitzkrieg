@@ -1,13 +1,13 @@
 # Alm
 
-LV6-86 Fighter
+LV7-42 Fighter
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 29       |
 | Attack     | 13       |
 | Skill      | 10       |
-| Speed      | 8        |
+| Speed      | 9        |
 | Luck       | 10       |
 | Defense    | 7        |
 | Resistance | 4        |

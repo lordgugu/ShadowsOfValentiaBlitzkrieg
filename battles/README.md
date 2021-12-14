@@ -47,5 +47,6 @@
 | [3.2 - Battle of Northern Zofia](Act.3/A3.Alm.2.md)     | 4          |
 | [3.3 - First Battle of Zofia Forest](Act.3/A3.Alm.3.md) | 3          |
 | [3.4 - Forest Crossroads Battle](Act.3/A3.Alm.4.md)     | 2          |
+| [3.5 - Siege of Desaix's Fortress](Act.3/A3.Alm.5.md)   | 3          |
 
 [Back](../README.md)

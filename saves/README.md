@@ -9,11 +9,15 @@ Main save file of the game. Represents the top save slot in the game.
 | Current Info        | <!-- -->              |
 | ------------------- | --------------------- |
 | **Act**             | 3                     |
-| **Alm Location**    | Forest Crossroads     |
+| **Alm Location**    | Desaix's Fortress     |
 | **Celica Location** | Mountain Highway      |
-| **Date**            | 28th of Pegastym, 401 |
-| **Play Time**       | 23:12                 |
-| **Turn Count**      | 133                   |
+| **Date**            | 69th of Pegastym, 401 |
+| **Play Time**       | 24:39                 |
+| **Turn Count**      | 136                   |
+
+# Temporary.bak
+
+Bookmark prior to completing the Siege of Desaix's Fortress on Turn 3 Player Phase. Mila's Turnwheel has been restored to allow reviewing the play-by-play.
 
 ## Global
 

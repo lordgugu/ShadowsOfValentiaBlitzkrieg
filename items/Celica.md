@@ -1,6 +1,6 @@
 # Inventory - Celica
 
-| Coins  | Amount |
+| Marks  | Amount |
 | ------ | ------ |
 | Silver | 285    |
 | Gold   | 5      |
@@ -48,7 +48,7 @@
 |          | Memory Prism 11     |
 |          | Memory Prism 12     |
 |          | Memory Prism 13     |
-| 2        | Cog                 |
+| 3        | Cog                 |
 |          | Mila's Turnwheel    |
 |          | Splitting Axe       |
 

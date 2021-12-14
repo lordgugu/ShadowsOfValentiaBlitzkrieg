@@ -1,21 +1,23 @@
 # Inventory - Alm
 
-| Coins  | Amount |
+| Marks  | Amount |
 | ------ | ------ |
-| Silver | 48     |
-| Gold   | 0      |
+| Silver | 16     |
+| Gold   | 2      |
 
 | <!-- --> | Item                         |
 | -------- | ---------------------------- |
 |          | Iron Sword                   |
-|          | Lightning Sword              |
 |          | Ettard (Steel Sword +3)      |
+|          | Lightning Sword              |
+|          | King Sword (Royal Sword +1)  |
+|          | Steel Lance                  |
 |          | Heavy Spear (Steel Lance +3) |
-|          | Horseslayer (Ridersbane +1)  |
+|          | Horseslayer (Ridersbane +3)  |
 |          | Fernand's Lance              |
 |          | Clive's Lance                |
 |          | Iron Bow                     |
-|          | Killer Bow                   |
+|          | Silencer (Killer Bow +2)     |
 |          | Python's Bow                 |
 |          | Mila Carving                 |
 |          | Black Pearl                  |
@@ -23,19 +25,20 @@
 |          | Dracoshield                  |
 |          | Lukas's Shield               |
 |          | Blessed Ring                 |
+|          | Coral Ring                   |
 | 12       | Orange                       |
 | 4        | Bread                        |
-|          | Leftover Bread               |
-| 2        | Bread Piece                  |
+| 3        | Leftover Bread               |
+| 4        | Bread Piece                  |
 | 3        | Drinking Water               |
 |          | Cold Soup                    |
-| 2        | Hard Bread                   |
+| 6        | Hard Bread                   |
 | 3        | Flour                        |
 | 4        | Carrot                       |
-|          | Holey Cheese                 |
-|          | Garlic                       |
+| 2        | Holey Cheese                 |
+| 2        | Garlic                       |
 |          | Mana Herbs                   |
-|          | Honey                        |
+| 2        | Honey                        |
 |          | Blue Cheese                  |
 |          | Memory Prism 1               |
 |          | Memory Prism 8               |
@@ -43,7 +46,7 @@
 |          | Memory Prism 11              |
 |          | Memory Prism 12              |
 |          | Memory Prism 13              |
-| 2        | Cog                          |
+| 3        | Cog                          |
 |          | Mila's Turnwheel             |
 
 [Back](README.md)

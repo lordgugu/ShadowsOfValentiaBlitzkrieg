@@ -14,6 +14,7 @@
 - [Forsyth](Deliverance/Forsyth.md)
 - [Python](Deliverance/Python.md)
 - [Luthier](Deliverance/Luthier.md)
+- [Mathilda](Deliverance/Mathilda.md)
 
 ## Pilgrimage
 

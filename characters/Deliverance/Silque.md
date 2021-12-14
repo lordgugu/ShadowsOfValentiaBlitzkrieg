@@ -1,6 +1,6 @@
 # Silque
 
-LV10-32 Cleric
+LV10-37 Cleric
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
