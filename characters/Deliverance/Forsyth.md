@@ -1,6 +1,6 @@
 # Forsyth
 
-LV5-33 Knight
+LV5-42 Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

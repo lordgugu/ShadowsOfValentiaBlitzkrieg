@@ -1,6 +1,6 @@
 # Kliff
 
-LV1-00 Dread Fighter
+LV1-05 Dread Fighter
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

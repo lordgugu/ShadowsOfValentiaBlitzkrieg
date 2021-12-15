@@ -1,6 +1,6 @@
 # Clive
 
-LV1-00 Gold Knight
+LV1-05 Gold Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

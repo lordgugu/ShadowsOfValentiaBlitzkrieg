@@ -2,7 +2,7 @@
 
 | Marks  | Amount |
 | ------ | ------ |
-| Silver | 106    |
+| Silver | 159    |
 | Gold   | 2      |
 
 | <!-- --> | Item                         |
