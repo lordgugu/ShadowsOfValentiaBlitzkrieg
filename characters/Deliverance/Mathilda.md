@@ -1,6 +1,6 @@
 # Mathilda
 
-LV1-00 Paladin
+LV1-53 Paladin
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

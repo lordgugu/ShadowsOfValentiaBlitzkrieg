@@ -1,6 +1,6 @@
 # Lukas
 
-LV3-41 Knight
+LV3-53 Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
@@ -15,6 +15,7 @@ LV3-41 Knight
 
 | Supports | <!-- --> |
 | -------- | -------- |
+| Clive    | C        |
 | Forsyth  | C        |
 | Python   | C        |
 

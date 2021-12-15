@@ -1,15 +1,15 @@
 # Faye
 
-LV10-90 Cleric
+LV11-09 Cleric
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 21       |
-| Attack     | 15       |
+| Attack     | 16       |
 | Skill      | 3        |
-| Speed      | 9        |
-| Luck       | 11       |
-| Defense    | 5        |
+| Speed      | 10       |
+| Luck       | 12       |
+| Defense    | 6        |
 | Resistance | 6        |
 | Movement   | 4        |
 

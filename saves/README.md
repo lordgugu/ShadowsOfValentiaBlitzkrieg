@@ -6,18 +6,14 @@ The game is played on 3DS and save files of this run are extracted from the game
 
 Main save file of the game. Represents the top save slot in the game.
 
-| Current Info        | <!-- -->              |
-| ------------------- | --------------------- |
-| **Act**             | 3                     |
-| **Alm Location**    | Desaix's Fortress     |
-| **Celica Location** | Mountain Highway      |
-| **Date**            | 69th of Pegastym, 401 |
-| **Play Time**       | 24:39                 |
-| **Turn Count**      | 136                   |
-
-# Temporary.bak
-
-Bookmark prior to completing the Siege of Desaix's Fortress on Turn 3 Player Phase. Mila's Turnwheel has been restored to allow reviewing the play-by-play.
+| Current Info        | <!-- -->               |
+| ------------------- | ---------------------- |
+| **Act**             | 3                      |
+| **Alm Location**    | Deliverance Hideout    |
+| **Celica Location** | Mountain Highway       |
+| **Date**            | 107th of Pegastym, 401 |
+| **Play Time**       | 25:51                  |
+| **Turn Count**      | 138                    |
 
 ## Global
 

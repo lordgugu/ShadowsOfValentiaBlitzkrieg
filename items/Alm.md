@@ -2,13 +2,13 @@
 
 | Marks  | Amount |
 | ------ | ------ |
-| Silver | 16     |
+| Silver | 56     |
 | Gold   | 2      |
 
 | <!-- --> | Item                         |
 | -------- | ---------------------------- |
 |          | Iron Sword                   |
-|          | Ettard (Steel Sword +3)      |
+|          | Al's Sword (Steel Sword +4)  |
 |          | Lightning Sword              |
 |          | King Sword (Royal Sword +1)  |
 |          | Steel Lance                  |
@@ -28,15 +28,15 @@
 |          | Coral Ring                   |
 | 12       | Orange                       |
 | 4        | Bread                        |
-| 3        | Leftover Bread               |
-| 4        | Bread Piece                  |
-| 3        | Drinking Water               |
+| 7        | Leftover Bread               |
+| 6        | Bread Piece                  |
+| 9        | Drinking Water               |
 |          | Cold Soup                    |
-| 6        | Hard Bread                   |
+| 17       | Hard Bread                   |
 | 3        | Flour                        |
 | 4        | Carrot                       |
-| 2        | Holey Cheese                 |
-| 2        | Garlic                       |
+| 6        | Holey Cheese                 |
+| 3        | Garlic                       |
 |          | Mana Herbs                   |
 | 2        | Honey                        |
 |          | Blue Cheese                  |

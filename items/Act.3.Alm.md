@@ -71,4 +71,24 @@
   - Main Area - Holey Cheese (Quest Item)
   - Main Area - Garlic
 
+## Deliverance Hideout
+
+- Random Treasure:
+  - Main Area - 11x Hard Bread
+  - Main Area - 6x Drinking Water
+  - Main Area - 5x Wine
+  - Main Area - 4x Holey Cheese (Quest Item)
+  - Main Area - 4x Leftover Bread
+  - Main Area - 2x Bread Piece
+  - Main Area - Garlic
+  - Main Area - Leftover Ale
+
+## Forest Village
+
+- Forges:
+  - Steel Sword +3 => Al's Sword (Steel Sword +4)
+  - Ridersbane +1 => Horseslayer (Ridersbane +3)
+  - Killer Bow => Silencer (Killer Bow +2)
+  - Royal Sword => King Sword (Royal Sword +1)
+
 [Back](README.md)
