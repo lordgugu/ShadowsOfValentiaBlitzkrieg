@@ -48,7 +48,7 @@
 |          | Memory Prism 11     |
 |          | Memory Prism 12     |
 |          | Memory Prism 13     |
-| 3        | Cog                 |
+| 4        | Cog                 |
 |          | Mila's Turnwheel    |
 |          | Splitting Axe       |
 

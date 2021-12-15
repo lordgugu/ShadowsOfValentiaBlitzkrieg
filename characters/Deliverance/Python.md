@@ -1,6 +1,6 @@
 # Python
 
-LV6-28 Sniper
+LV6-58 Sniper
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
@@ -10,7 +10,7 @@ LV6-28 Sniper
 | Speed      | 8        |
 | Luck       | 3        |
 | Defense    | 7        |
-| Resistance | 4        |
+| Resistance | 6        |
 | Movement   | 5        |
 
 | Supports | <!-- --> |
@@ -24,5 +24,9 @@ LV6-28 Sniper
 - Bow
 - Bowrange +2
 - Curved Shot
+
+## Fountains/Stat Boosters
+
+- Sylvan Shrine - Resistance +2
 
 [Back](../README.md)

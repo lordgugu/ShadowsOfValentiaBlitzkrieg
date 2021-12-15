@@ -1,6 +1,6 @@
 # Silque
 
-LV10-49 Cleric
+LV10-99 Cleric
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

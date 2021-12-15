@@ -139,13 +139,13 @@
   - Treasure Vault - Wine
   - Treasure Vault - Ridersbane
   - Treasure Vault - Ram Wine
-  - Treasure Vault - Black Pearl (Quest Item)
+  - Treasure Vault - Black Pearl
   - Balcony - Orange
   - Balcony - Orange
 
 - Uncollected:
   - Central Hall - Steel Lance (Quest Item)
   - Central Hall - Iron Shield
-  - Treasure Vault - Blue Cheese (Quest Item)
+  - Treasure Vault - Blue Cheese
 
 [Back](README.md)

@@ -1,17 +1,17 @@
 # Kliff
 
-LV9-72 Myrmidon
+LV1-00 Dread Fighter
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 33       |
-| Attack     | 14       |
+| HP         | 36       |
+| Attack     | 15       |
 | Skill      | 17       |
-| Speed      | 19       |
+| Speed      | 20       |
 | Luck       | 13       |
-| Defense    | 10       |
+| Defense    | 11       |
 | Resistance | 8        |
-| Movement   | 5        |
+| Movement   | 7        |
 
 | Supports | <!-- --> |
 | -------- | -------- |
@@ -20,6 +20,9 @@ LV9-72 Myrmidon
 ## Abilities
 
 - Sword
+- Resistance +5
+- Apotrope
+- Sunder
 - Thunderclap
 - Foudroyant
 

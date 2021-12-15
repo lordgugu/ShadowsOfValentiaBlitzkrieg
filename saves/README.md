@@ -9,11 +9,11 @@ Main save file of the game. Represents the top save slot in the game.
 | Current Info        | <!-- -->               |
 | ------------------- | ---------------------- |
 | **Act**             | 3                      |
-| **Alm Location**    | Deliverance Hideout    |
+| **Alm Location**    | Zofia Forest 2         |
 | **Celica Location** | Mountain Highway       |
-| **Date**            | 107th of Pegastym, 401 |
-| **Play Time**       | 25:51                  |
-| **Turn Count**      | 138                    |
+| **Date**            | 135th of Pegastym, 401 |
+| **Play Time**       | 26:57                  |
+| **Turn Count**      | 139                    |
 
 ## Global
 

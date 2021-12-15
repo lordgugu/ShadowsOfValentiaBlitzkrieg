@@ -1,16 +1,16 @@
 # Mathilda
 
-LV1-53 Paladin
+LV2-16 Paladin
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 26       |
 | Attack     | 12       |
-| Skill      | 14       |
+| Skill      | 15       |
 | Speed      | 12       |
-| Luck       | 13       |
+| Luck       | 14       |
 | Defense    | 7        |
-| Resistance | 10       |
+| Resistance | 11       |
 | Movement   | 8        |
 
 ## Abilities

@@ -91,4 +91,37 @@
   - Killer Bow => Silencer (Killer Bow +2)
   - Royal Sword => King Sword (Royal Sword +1)
 
+## Deliverance Hideout
+
+- Battle:
+  - Guardian - Royal Shield
+
+- Random Treasure:
+  - Main Area - Leftover Bread
+
+## Sylvan Shrine
+
+- Random Treasure:
+  - Area 1 - Raw Meat
+  - Mila Idol - Mana Herbs
+
+## Forest Village
+
+- Quest Rewards:
+  - House 2 - Blessed Lance
+  - House 2 - Fruit of Life
+  - House 2 - Cog
+  - House 2 - Yogurt (Quest Item)
+
+- Forges:
+  - Killer Bow +2 => Silencer (Killer Bow +3)
+
+## Sylvan Shrine
+
+- Collected:
+  - Area 1 - Handmade Doll
+
+- Random Treasure:
+  - Area 1 - Flour
+
 [Back](README.md)

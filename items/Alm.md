@@ -2,7 +2,7 @@
 
 | Marks  | Amount |
 | ------ | ------ |
-| Silver | 56     |
+| Silver | 106    |
 | Gold   | 2      |
 
 | <!-- --> | Item                         |
@@ -14,39 +14,43 @@
 |          | Steel Lance                  |
 |          | Heavy Spear (Steel Lance +3) |
 |          | Horseslayer (Ridersbane +3)  |
+|          | Blessed Lance                |
 |          | Fernand's Lance              |
 |          | Clive's Lance                |
 |          | Iron Bow                     |
-|          | Silencer (Killer Bow +2)     |
+|          | Silencer (Killer Bow +3)     |
 |          | Python's Bow                 |
+|          | Handmade Doll                |
 |          | Mila Carving                 |
 |          | Black Pearl                  |
+|          | Cell Key                     |
 |          | Leather Shield               |
 |          | Dracoshield                  |
+|          | Royal Shield                 |
 |          | Lukas's Shield               |
 |          | Blessed Ring                 |
 |          | Coral Ring                   |
-| 12       | Orange                       |
-| 4        | Bread                        |
-| 7        | Leftover Bread               |
-| 6        | Bread Piece                  |
-| 9        | Drinking Water               |
+| 2        | Orange                       |
+|          | Leftover Bread               |
+|          | Bread Piece                  |
+|          | Drinking Water               |
 |          | Cold Soup                    |
-| 17       | Hard Bread                   |
-| 3        | Flour                        |
-| 4        | Carrot                       |
-| 6        | Holey Cheese                 |
-| 3        | Garlic                       |
+|          | Flour                        |
+|          | Holey Cheese                 |
+|          | Garlic                       |
 |          | Mana Herbs                   |
-| 2        | Honey                        |
+|          | Yogurt                       |
+|          | Raw Meat                     |
+|          | Honey                        |
 |          | Blue Cheese                  |
+|          | Fruit of Life                |
 |          | Memory Prism 1               |
 |          | Memory Prism 8               |
 |          | Memory Prism 9               |
 |          | Memory Prism 11              |
 |          | Memory Prism 12              |
 |          | Memory Prism 13              |
-| 3        | Cog                          |
+| 4        | Cog                          |
 |          | Mila's Turnwheel             |
 
 [Back](README.md)

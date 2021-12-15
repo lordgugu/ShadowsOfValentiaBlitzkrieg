@@ -89,16 +89,35 @@
   - Must be obtained from Celica's route and transferred through a Peddler
   - Will probably not be completed until Act 4 because the Rion Shield is very useful
 
-- A Royal Requiem
+- A Royal Requiem - COMPLETED
   - Requires talking to the Restless Man in the Central Hall after completing One Man's Trash...
   - Gotten from the Eerie Hermit at the Throne Room
   - Requires defeating the enemy Specters at the Deliverance Hideout
+  - Completed with Alm after the Second Battle of Zofia Forest
 
 ### Forest Village
 
-- Goylenapped
+- Goylenapped - COMPLETED
   - Gotten from the Man at House 2
   - Requires rescuing his daughter, who can be found at the Mila Idol of the Sylvan Shrine
+  - Completed with Alm after A Royal Requiem
+
+- The Prisoner's Whereabouts
+  - Gotten from the Merchant's Wife at House 1
+  - Requires completing Goylenapped first
+  - Requires collecting the Handmade Doll and reading the note on the wall at Sylvan Shrine, but will be completed at Nuibaba's Abode Interior in Act 4
+
+- Craving Cute - COMPLETED
+  - Gotten from the Girl at House 2
+  - Requires completing Goylenapped first, then visiting another part of the Forest Village before returning to House 1
+  - The quest can be repeated by bringing any of Bear Carving, Coral Fragment, Black Pearl, Handmade Doll, Holey Cheese, Sweet Cookie
+  - The rewards are random from the following list:
+    - Fruit of Life => Cog => 10 Silver Marks
+    - Leftover Bread
+    - Blue Cheese
+    - Yogurt
+    - Dried Meat
+  - Completed with Alm after A Royal Requiem
 
 ### Desaix's Fortress Interior
 
