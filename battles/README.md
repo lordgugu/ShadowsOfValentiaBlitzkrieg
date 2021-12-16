@@ -51,5 +51,6 @@
 | [3.6 - Second Battle of Zofia Forest](Act.3/A3.Alm.6.md) | 2          |
 | [3.7 - A Royal Requiem](Act.3/A3.Alm.7.md)               | 1          |
 | [3.8 - Forest Northside Battle](Act.3/A3.Alm.8.md)       | 2          |
+| [3.9 - Retaking of the Sluice Gate](Act.3/A3.Alm.9.md)   | 2          |
 
 [Back](../README.md)

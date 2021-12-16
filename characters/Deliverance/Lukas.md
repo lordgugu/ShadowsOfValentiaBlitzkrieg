@@ -1,6 +1,6 @@
 # Lukas
 
-LV3-65 Knight
+LV3-77 Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

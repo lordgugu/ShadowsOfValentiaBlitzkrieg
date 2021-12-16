@@ -1,6 +1,6 @@
 # Clair
 
-LV9-19 Pegasus Knight
+LV9-57 Pegasus Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

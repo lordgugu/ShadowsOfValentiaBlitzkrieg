@@ -15,6 +15,7 @@
 - [Python](Deliverance/Python.md)
 - [Luthier](Deliverance/Luthier.md)
 - [Mathilda](Deliverance/Mathilda.md)
+- [Delthea](Deliverance/Delthea.md)
 
 ## Pilgrimage
 

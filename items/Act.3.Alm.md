@@ -124,4 +124,14 @@
 - Random Treasure:
   - Area 1 - Flour
 
+## Sluice Gate Interior
+
+- Initial Equipment:
+  - Delthea: Prayer Ring
+
+- Collected:
+  - Entrance - Mana Herbs
+  - Control Room - Bread
+  - Control Room - Drinking Water
+
 [Back](README.md)

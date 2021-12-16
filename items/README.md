@@ -6,6 +6,8 @@
 
 [Provisions Eaten](Provisions.md)
 
+[Peddlers](Peddlers.md)
+
 ## Collection Checklists
 
 [Act 1](Act.1.md)

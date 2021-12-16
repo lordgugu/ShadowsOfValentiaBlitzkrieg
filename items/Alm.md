@@ -2,7 +2,7 @@
 
 | Marks  | Amount |
 | ------ | ------ |
-| Silver | 159    |
+| Silver | 279    |
 | Gold   | 2      |
 
 | <!-- --> | Item                         |
@@ -18,7 +18,6 @@
 |          | Fernand's Lance              |
 |          | Clive's Lance                |
 |          | Iron Bow                     |
-|          | Silencer (Killer Bow +3)     |
 |          | Python's Bow                 |
 |          | Handmade Doll                |
 |          | Mila Carving                 |
@@ -29,8 +28,10 @@
 |          | Royal Shield                 |
 |          | Lukas's Shield               |
 |          | Blessed Ring                 |
+|          | Prayer Ring                  |
 |          | Coral Ring                   |
 | 2        | Orange                       |
+|          | Bread                        |
 |          | Leftover Bread               |
 |          | Bread Piece                  |
 |          | Drinking Water               |
@@ -38,7 +39,7 @@
 |          | Flour                        |
 |          | Holey Cheese                 |
 |          | Garlic                       |
-|          | Mana Herbs                   |
+| 2        | Mana Herbs                   |
 |          | Yogurt                       |
 |          | Raw Meat                     |
 |          | Honey                        |

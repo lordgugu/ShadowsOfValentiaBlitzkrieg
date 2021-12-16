@@ -1,15 +1,15 @@
 # Python
 
-LV8-38 Sniper
+LV9-91 Sniper
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 34       |
-| Attack     | 14       |
+| HP         | 35       |
+| Attack     | 15       |
 | Skill      | 8        |
 | Speed      | 10       |
-| Luck       | 4        |
-| Defense    | 7        |
+| Luck       | 5        |
+| Defense    | 8        |
 | Resistance | 6        |
 | Movement   | 5        |
 
@@ -24,6 +24,7 @@ LV8-38 Sniper
 - Bow
 - Bowrange +2
 - Curved Shot
+- Hunter's Volley
 
 ## Fountains/Stat Boosters
 
