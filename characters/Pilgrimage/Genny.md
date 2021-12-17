@@ -1,6 +1,6 @@
 # Genny
 
-LV9-53 Cleric
+LV9-88 Cleric
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

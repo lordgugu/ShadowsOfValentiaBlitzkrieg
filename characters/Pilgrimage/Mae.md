@@ -1,6 +1,6 @@
 # Mae
 
-LV1-22 Priestess
+LV1-44 Priestess
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
@@ -16,7 +16,7 @@ LV1-22 Priestess
 | Supports | <!-- --> |
 | -------- | -------- |
 | Celica   | C        |
-| Boey     | C        |
+| Boey     | B        |
 
 ## Abilities
 

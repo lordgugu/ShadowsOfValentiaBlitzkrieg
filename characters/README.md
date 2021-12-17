@@ -27,5 +27,7 @@
 - [Valbar](Pilgrimage/Valbar.md)
 - [Leon](Pilgrimage/Leon.md)
 - [Kamui](Pilgrimage/Kamui.md)
+- [Palla](Pilgrimage/Palla.md)
+- [Catria](Pilgrimage/Catria.md)
 
 [Back](../README.md)

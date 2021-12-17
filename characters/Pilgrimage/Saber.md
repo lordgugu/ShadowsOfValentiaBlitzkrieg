@@ -1,11 +1,11 @@
 # Saber
 
-LV1-80 Myrmidon
+LV2-79 Myrmidon
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 30       |
-| Attack     | 12       |
+| Attack     | 13       |
 | Skill      | 12       |
 | Speed      | 14       |
 | Luck       | 8        |
@@ -16,6 +16,7 @@ LV1-80 Myrmidon
 ## Abilities
 
 - Sword
+- Sunder
 - Plenitude
 
 [Back](../README.md)

@@ -126,4 +126,19 @@
   - Requires 30 Silver
   - Completed with Alm immediately after collecting it
 
+### Zofia Harbor
+
+- A Fishy Request
+  - Gotten from the Royal Chef at the Entrance
+  - Requires a Dagon Fillet
+
+- Ethereal Fishing Line
+  - Gotten from the Skilled Angler at the Tavern
+  - Requires completing The Famished Fisherman and beginning A Fishy Request
+  - Requires Gossamer Hair
+
+- Taken Treasure: Grieth'S Vault
+  - Gotten from Lord Fugue at the Tavern
+  - Requires the Fugue Shield
+
 [Back](../README.md)

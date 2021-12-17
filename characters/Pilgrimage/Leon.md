@@ -1,14 +1,14 @@
 # Leon
 
-LV2-82 Sniper
+LV3-45 Sniper
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 30       |
-| Attack     | 13       |
-| Skill      | 7        |
+| HP         | 31       |
+| Attack     | 14       |
+| Skill      | 8        |
 | Speed      | 8        |
-| Luck       | 8        |
+| Luck       | 9        |
 | Defense    | 6        |
 | Resistance | 4        |
 | Movement   | 5        |
@@ -20,8 +20,8 @@ LV2-82 Sniper
 ## Abilities
 
 - Bow
-- Curved Shot
 - Bowrange +2
+- Curved Shot
 
 ## Fountains/Stat Boosters
 

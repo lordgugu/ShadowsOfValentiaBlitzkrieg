@@ -13,6 +13,7 @@
 |          | Golden Dagger            |
 |          | Iron Lance               |
 |          | Steel Lance              |
+|          | Javelin                  |
 |          | Clair's Lance            |
 |          | Iron Bow                 |
 |          | Silencer (Killer Bow +3) |
@@ -23,6 +24,7 @@
 |          | Leather Shield           |
 |          | Iron Shield              |
 |          | Blessed Ring             |
+|          | Angel Ring               |
 | 2        | Orange                   |
 |          | Leftover Bread           |
 | 3        | Drinking Water           |
@@ -32,7 +34,7 @@
 | 2        | Holey Cheese             |
 | 2        | Garlic                   |
 | 2        | Herring                  |
-|          | Dried Meat               |
+| 2        | Dried Meat               |
 |          | Sausage                  |
 |          | Ham                      |
 | 2        | Dried Shieldfish         |

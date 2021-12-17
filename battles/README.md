@@ -53,4 +53,10 @@
 | [3.8 - Forest Northside Battle](Act.3/A3.Alm.8.md)       | 2          |
 | [3.9 - Retaking of the Sluice Gate](Act.3/A3.Alm.9.md)   | 2          |
 
+## Act 3 - Celica
+
+| Encounter                                          | Turn Count |
+| -------------------------------------------------- | ---------- |
+| [3.10 - Zofian Coast Battle](Act.3/A3.Celica.1.md) | 3          |
+
 [Back](../README.md)

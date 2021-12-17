@@ -1,6 +1,6 @@
 # Boey
 
-LV6-12 Mage
+LV6-34 Mage
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
@@ -15,13 +15,13 @@ LV6-12 Mage
 
 | Supports | <!-- --> |
 | -------- | -------- |
-| Mae      | C        |
+| Mae      | B        |
 
 ## Abilities
 
 - Fire
 - Thunder
-- Swap
 - Shove
+- Swap
 
 [Back](../README.md)
