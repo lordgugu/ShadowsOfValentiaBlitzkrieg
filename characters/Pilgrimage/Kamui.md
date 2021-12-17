@@ -1,14 +1,14 @@
 # Kamui
 
-LV1-83 Myrmidon
+LV2-18 Myrmidon
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 30       |
-| Attack     | 11       |
+| Attack     | 12       |
 | Skill      | 11       |
-| Speed      | 14       |
-| Luck       | 4        |
+| Speed      | 15       |
+| Luck       | 5        |
 | Defense    | 7        |
 | Resistance | 2        |
 | Movement   | 5        |

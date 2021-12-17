@@ -1,6 +1,6 @@
 # Valbar
 
-LV6-64 Knight
+LV6-73 Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
@@ -17,6 +17,7 @@ LV6-64 Knight
 
 - Lance
 - Armored
+- Shove
 - Swap
 - Mistdancer
 

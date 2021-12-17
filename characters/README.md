@@ -29,5 +29,6 @@
 - [Kamui](Pilgrimage/Kamui.md)
 - [Palla](Pilgrimage/Palla.md)
 - [Catria](Pilgrimage/Catria.md)
+- [Atlas](Pilgrimage/Atlas.md)
 
 [Back](../README.md)

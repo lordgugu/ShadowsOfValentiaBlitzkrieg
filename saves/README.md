@@ -10,10 +10,10 @@ Main save file of the game. Represents the top save slot in the game.
 | ------------------- | ---------------------- |
 | **Act**             | 3                      |
 | **Alm Location**    | Deliverance Hideout    |
-| **Celica Location** | Zofia Harbor           |
-| **Date**            | 168th of Pegastym, 401 |
-| **Play Time**       | 30:24                  |
-| **Turn Count**      | 146                    |
+| **Celica Location** | Mountain Village       |
+| **Date**            | 199th of Pegastym, 401 |
+| **Play Time**       | 31:39                  |
+| **Turn Count**      | 148                    |
 
 ## Global
 

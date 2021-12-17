@@ -141,4 +141,20 @@
   - Gotten from Lord Fugue at the Tavern
   - Requires the Fugue Shield
 
+### Mountain Village
+
+- A Dried Delicacy - COMPLETED
+  - Gotten from the Fish-crazy Man at the Square
+  - Requires a Dried Shieldfish
+  - Completed with Celica upon arriving
+
+- Chopped! - COMPLETED
+  - Gotten from the Lumberjack at the House
+  - Requires a Splitting Axe or a Devil Axe
+  - Completed with Celica upon arriving
+
+- In Search of a Son
+  - Gotten from the Tired Lady at the House
+  - Requires finding A Son's Journal at the Dragon Shrine
+
 [Back](../README.md)

@@ -10,11 +10,12 @@ LV3-45 Sniper
 | Speed      | 8        |
 | Luck       | 9        |
 | Defense    | 6        |
-| Resistance | 4        |
+| Resistance | 5        |
 | Movement   | 5        |
 
 | Supports | <!-- --> |
 | -------- | -------- |
+| Valbar   | C        |
 | Kamui    | C        |
 
 ## Abilities

@@ -12,4 +12,22 @@
   - Palla - Javelin
   - Catria - Angel Ring
 
+## Mountain Village
+
+- Collected:
+  - Square - Flour
+  - Square - Drinking Water
+  - Square - Orange
+  - House - Orange
+  - Smithy - Drinking Water
+
+- Quest Rewards:
+  - Square - Pegasus Cheese
+  - House - Bear Carving
+
+## Seabound Shrine Interior
+
+- Random Treasure:
+  - Area 1 - 6x Coral Fragment
+
 [Back](README.md)

@@ -1,11 +1,11 @@
 # Celica
 
-LV8-90 Priestess
+LV9-46 Priestess
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 26       |
-| Attack     | 15       |
+| Attack     | 16       |
 | Skill      | 10       |
 | Speed      | 12       |
 | Luck       | 13       |
@@ -15,7 +15,7 @@ LV8-90 Priestess
 
 | Supports | <!-- --> |
 | -------- | -------- |
-| Mae      | C        |
+| Mae      | B        |
 
 ## Abilities
 
@@ -23,6 +23,7 @@ LV8-90 Priestess
 - Fire
 - Thunder
 - Seraphim
+- Recover
 - Shove
 - Swap
 

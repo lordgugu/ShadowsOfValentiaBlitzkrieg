@@ -1,6 +1,6 @@
 # Catria
 
-LV5-00 Pegasus Knight
+LV5-42 Pegasus Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

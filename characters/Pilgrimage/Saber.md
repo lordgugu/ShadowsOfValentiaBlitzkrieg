@@ -1,15 +1,15 @@
 # Saber
 
-LV2-79 Myrmidon
+LV3-49 Myrmidon
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 30       |
 | Attack     | 13       |
-| Skill      | 12       |
+| Skill      | 13       |
 | Speed      | 14       |
-| Luck       | 8        |
-| Defense    | 7        |
+| Luck       | 9        |
+| Defense    | 8        |
 | Resistance | 6        |
 | Movement   | 5        |
 
