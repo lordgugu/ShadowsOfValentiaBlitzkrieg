@@ -1,12 +1,12 @@
 # Leon
 
-LV7-77 Sniper
+LV9-55 Sniper
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
 | HP         | 33       |
 | Attack     | 14       |
-| Skill      | 11       |
+| Skill      | 13       |
 | Speed      | 9        |
 | Luck       | 10       |
 | Defense    | 9        |

@@ -10,10 +10,10 @@ Main save file of the game. Represents the top save slot in the game.
 | ------------------- | ---------------------- |
 | **Act**             | 3                      |
 | **Alm Location**    | Deliverance Hideout    |
-| **Celica Location** | Desert Stronghold      |
-| **Date**            | 212nd of Pegastym, 401 |
-| **Play Time**       | 32:50                  |
-| **Turn Count**      | 152                    |
+| **Celica Location** | Northern Desert        |
+| **Date**            | 218th of Pegastym, 401 |
+| **Play Time**       | 33:29                  |
+| **Turn Count**      | 155                    |
 
 ## Global
 

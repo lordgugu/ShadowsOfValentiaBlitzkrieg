@@ -60,5 +60,6 @@
 | [3.10 - Zofian Coast Battle](Act.3/A3.Celica.1.md)             | 3          |
 | [3.11 - Skirmish (Mountain Graveyard)](Act.3/A3.Celica.2.md)   | 2          |
 | [3.12 - Attack on the Desert Stronghold](Act.3/A3.Celica.3.md) | 4          |
+| [3.13 - Southern Desert Battle](Act.3/A3.Celica.4.md)          | 3          |
 
 [Back](../README.md)

@@ -1,15 +1,15 @@
 # Leon
 
-LV2-35 Archer
+LV4-36 Archer
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 31       |
-| Attack     | 14       |
-| Skill      | 3        |
-| Speed      | 3        |
-| Luck       | 5        |
-| Defense    | 5        |
+| HP         | 32       |
+| Attack     | 16       |
+| Skill      | 5        |
+| Speed      | 4        |
+| Luck       | 6        |
+| Defense    | 7        |
 | Resistance | 4        |
 | Movement   | 4        |
 

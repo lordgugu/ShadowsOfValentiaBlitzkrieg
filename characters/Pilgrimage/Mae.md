@@ -1,12 +1,12 @@
 # Mae
 
-LV1-86 Priestess
+LV2-68 Priestess
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 32       |
-| Attack     | 23       |
-| Skill      | 8        |
+| HP         | 35       |
+| Attack     | 24       |
+| Skill      | 9        |
 | Speed      | 14       |
 | Luck       | 14       |
 | Defense    | 6        |
@@ -26,6 +26,7 @@ LV1-86 Priestess
 - Seraphim
 - Aura
 - Recover
+- Shove
 - Swap
 
 ## Fountains/Stat Boosters

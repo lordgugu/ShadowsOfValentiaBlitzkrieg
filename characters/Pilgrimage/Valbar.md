@@ -1,6 +1,6 @@
 # Valbar
 
-LV6-81 Knight
+LV6-89 Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

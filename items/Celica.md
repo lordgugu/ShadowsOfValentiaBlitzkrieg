@@ -2,7 +2,7 @@
 
 | Marks  | Amount |
 | ------ | ------ |
-| Silver | 59     |
+| Silver | 79     |
 | Gold   | 4      |
 
 | <!-- --> | Item                         |
@@ -24,14 +24,16 @@
 |          | Leather Shield               |
 | 2        | Iron Shield                  |
 |          | Steel Shield                 |
+|          | Rion Shield                  |
 |          | Blessed Ring                 |
 |          | Angel Ring                   |
 |          | Orange                       |
 |          | Leftover Bread               |
-|          | Drinking Water               |
+| 3        | Drinking Water               |
+|          | Hard Bread                   |
 |          | Holey Cheese                 |
 |          | Garlic                       |
-|          | Dried Meat                   |
+| 3        | Dried Meat                   |
 |          | Sausage                      |
 |          | Ham                          |
 |          | Dried Shieldfish             |
@@ -47,5 +49,6 @@
 |          | Memory Prism 13              |
 | 4        | Cog                          |
 |          | Mila's Turnwheel             |
+|          | Splitting Axe                |
 
 [Back](README.md)

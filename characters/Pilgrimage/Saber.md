@@ -1,6 +1,6 @@
 # Saber
 
-LV3-60 Myrmidon
+LV3-92 Myrmidon
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

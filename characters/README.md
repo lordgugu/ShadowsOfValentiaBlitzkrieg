@@ -30,5 +30,6 @@
 - [Palla](Pilgrimage/Palla.md)
 - [Catria](Pilgrimage/Catria.md)
 - [Atlas](Pilgrimage/Atlas.md)
+- [Jesse](Pilgrimage/Jesse.md)
 
 [Back](../README.md)
