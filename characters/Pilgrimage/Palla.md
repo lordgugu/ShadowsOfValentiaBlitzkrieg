@@ -1,6 +1,6 @@
 # Palla
 
-LV8-53 Pegasus Knight
+LV8-99 Pegasus Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

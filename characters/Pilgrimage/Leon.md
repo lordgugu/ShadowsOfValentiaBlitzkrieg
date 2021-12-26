@@ -1,15 +1,15 @@
 # Leon
 
-LV3-45 Sniper
+LV7-77 Sniper
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 31       |
+| HP         | 33       |
 | Attack     | 14       |
-| Skill      | 8        |
-| Speed      | 8        |
-| Luck       | 9        |
-| Defense    | 6        |
+| Skill      | 11       |
+| Speed      | 9        |
+| Luck       | 10       |
+| Defense    | 9        |
 | Resistance | 5        |
 | Movement   | 5        |
 
@@ -23,6 +23,7 @@ LV3-45 Sniper
 - Bow
 - Bowrange +2
 - Curved Shot
+- Hunter's Volley
 
 ## Fountains/Stat Boosters
 

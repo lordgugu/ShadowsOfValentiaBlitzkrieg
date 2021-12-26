@@ -55,9 +55,10 @@
 
 ## Act 3 - Celica
 
-| Encounter                                                    | Turn Count |
-| ------------------------------------------------------------ | ---------- |
-| [3.10 - Zofian Coast Battle](Act.3/A3.Celica.1.md)           | 3          |
-| [3.11 - Skirmish (Mountain Graveyard)](Act.3/A3.Celica.2.md) | 2          |
+| Encounter                                                      | Turn Count |
+| -------------------------------------------------------------- | ---------- |
+| [3.10 - Zofian Coast Battle](Act.3/A3.Celica.1.md)             | 3          |
+| [3.11 - Skirmish (Mountain Graveyard)](Act.3/A3.Celica.2.md)   | 2          |
+| [3.12 - Attack on the Desert Stronghold](Act.3/A3.Celica.3.md) | 4          |
 
 [Back](../README.md)

@@ -1,11 +1,11 @@
 # Catria
 
-LV5-42 Pegasus Knight
+LV6-28 Pegasus Knight
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
-| HP         | 24       |
-| Attack     | 11       |
+| HP         | 25       |
+| Attack     | 12       |
 | Skill      | 12       |
 | Speed      | 12       |
 | Luck       | 12       |

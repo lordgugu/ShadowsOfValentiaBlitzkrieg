@@ -1,6 +1,6 @@
 # Leon
 
-LV1-00 Archer
+LV2-35 Archer
 
 | Stat       | <!-- --> |
 | ---------- | -------- |
@@ -8,7 +8,7 @@ LV1-00 Archer
 | Attack     | 14       |
 | Skill      | 3        |
 | Speed      | 3        |
-| Luck       | 4        |
+| Luck       | 5        |
 | Defense    | 5        |
 | Resistance | 4        |
 | Movement   | 4        |

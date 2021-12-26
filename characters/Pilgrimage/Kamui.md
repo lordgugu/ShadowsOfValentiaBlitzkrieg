@@ -1,6 +1,6 @@
 # Kamui
 
-LV2-18 Myrmidon
+LV2-53 Myrmidon
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

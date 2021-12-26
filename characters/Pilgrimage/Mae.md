@@ -1,6 +1,6 @@
 # Mae
 
-LV1-50 Priestess
+LV1-86 Priestess
 
 | Stat       | <!-- --> |
 | ---------- | -------- |

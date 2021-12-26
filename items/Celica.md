@@ -2,7 +2,7 @@
 
 | Marks  | Amount |
 | ------ | ------ |
-| Silver | 39     |
+| Silver | 59     |
 | Gold   | 4      |
 
 | <!-- --> | Item                         |
@@ -19,6 +19,7 @@
 |          | Silencer (Killer Bow +3)     |
 |          | Bear Carving                 |
 |          | Black Pearl                  |
+|          | Cell Key                     |
 |          | Taurus Shard                 |
 |          | Leather Shield               |
 | 2        | Iron Shield                  |
@@ -27,6 +28,7 @@
 |          | Angel Ring                   |
 |          | Orange                       |
 |          | Leftover Bread               |
+|          | Drinking Water               |
 |          | Holey Cheese                 |
 |          | Garlic                       |
 |          | Dried Meat                   |

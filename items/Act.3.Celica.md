@@ -30,4 +30,10 @@
 - Random Treasure:
   - Area 1 - 6x Coral Fragment
 
+## Desert Stronghold
+
+- Battle:
+  - Mercenary - Cell Key
+  - Mercenary - Drinking Water
+
 [Back](README.md)
